@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+ 
+ 
+<channel>
+    <name>          <<<Canales TV>>></name>
+    <thumbnail>https://nichonatural.com/wp-content/uploads/2017/02/canales-620x324.png</thumbnail>
+    <fanart>http://www.intrawallpaper.com/static/images/thor_2_the_dark_world-1920x1080.jpg</fanart>
+        <items>
+
+
+
+
+
+               
+                        <item><title>[COLOR=yellow]                    <<[/COLOR][COLOR=yellow] Canales TDT España[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] La 1</title>
+                        <fanart></fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
+                        <link>http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] La 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.emadridnet.org/images/stories/la2.png</thumbnail>
+                        <link>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/index_1500_av-b.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TDP</title>
+                        <fanart></fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/fr/2/26/Teledeporte_logo.png</thumbnail>
+                        <link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Verano Noventero</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@184338/index_1500_av-p.m3u8?sd=10&rebase=on</link>
+                        </item>
+                    
+					
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Antena 3</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-antena-3.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Neox</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Nova</title>
+                        <fanart></fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] A3Series</title>
+                        <fanart></fanart>
+                        <thumbnail>https://imediagala.files.wordpress.com/2015/12/a3series.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] La Sexta</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Cuatro</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/1wNHRhYjE61kGMsySKOTnzPZzYO38rtd/cn/34a2f95c460e44c086b5f883f3de6e74_4.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Telecinco HD</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://edge9208.applive.online/live/vertelecinco39ffb0f0c5e23/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Energy</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://edgoo5.telesport.pw/live/energy/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Diviniy</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://edge9207.applive.online/live/verdivinity84d3666dac8715/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FDF</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224_4.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DMAX</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Be Mad TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://edgoo2.telesport.pw/live/bemad/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal Extremadura SAT</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Disney Channel</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://edge9205.applive.online/live/verdisneychannelb3cece21d/index.m3u8/link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TEN</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ten_cpyjq8k/chunklist.m3u8?st=YI8uKtfC5-hZVfyckuNOQg&e=1501677464</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MTV España</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge8207.livesports.pw/live/vermtvespe9499422bf273237/index.m3u8</link>
+                        </item>
+
+
+<item><title>[COLOR=yellow]                    <<[/COLOR][COLOR=yellow] Canales de noticias[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] RT en Español</title>
+<link>plugin://plugin.video.youtube/play/?video_id=kFpzwhYhNg4</link>
+<thumbnail>https://lh3.googleusercontent.com/-z391X3IQmhI/VrJFiEZp59I/AAAAAAAADi0/J21wswxa3_o/h250/RT%2BEspa%25C3%25B1ol.png</thumbnail>
+<fanart>https://actualidad.rt.com/static/img/og-logo-rt.jpg</fanart>
+<info>RT en español ofrece una alternativa real en el mundo de la información. Las noticias de actualidad de las que no hablan los principales canales internacionales adquieren importancia mundial en RT en español. </info>
+</item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] 24H</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Euronews</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://euronews-es-p-cdn.hexaglobe.net/aefc989c6e906e01efe89634e4348ae6/59807426/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_540p.m3u8</link>
+                        </item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] TN en vivo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=0tek2aa8hAQ</link>
+<thumbnail>https://pbs.twimg.com/profile_images/875694019132751872/nRQYNh5u.jpg</thumbnail>
+<fanart>https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png</fanart>
+<info></info>
+</item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] DW Español en VIVO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=saTxSbSl8cU</link>
+<thumbnail>https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+<fanart>https://expediente.tv/wp-content/uploads/2017/07/DW-1024x576.png</fanart>
+<info></info>
+</item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] C5N en VIVO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=yc702qA1CPw</link>
+<thumbnail>http://4.bp.blogspot.com/_vfs9jxL82wA/TAvM37jHVeI/AAAAAAAAPeo/Iv3HDNEg9I4/s400/c5n.jpg</thumbnail>
+<fanart>http://d2445imzl4t8r9.cloudfront.net/images/C5N-5d249092f8fd95447a5c187ea59acbad.png</fanart>
+<info></info>
+</item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Euronews en español en vivo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=TRGkVV2Y2XI</link>
+<thumbnail>http://oklivetv.com/wp-content/uploads/2015/02/euronewses.jpg</thumbnail>
+<fanart>http://es.euronews.com/images/fallback.jpg</fanart>
+<info></info>
+</item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Excélsior TV en vivo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=L3pAMSDepok</link>
+<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/Ohg-_fimIRY/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+						
+
+
+						<item><title>[COLOR=yellow]                    <<[/COLOR][COLOR=yellow] Canales musicales[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Virgin TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://wow01.105.net/live/virgin1/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Hit TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CAPITAL TV (UK)</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] VH1</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://93.174.93.84:8081/live/vh1-hq/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] VIBEE.TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://46.101.21.42:8081/live/live2/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] PORTALFOXMIX.TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ONE TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://server5.stweb.tv/radioone/live/playlist.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Stars TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8</link>
+                        </item>
+
+
+						<item><title>[COLOR=yellow]                     <<[/COLOR][COLOR=yellow] Movistar+[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL TOROS</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://xxedge53.livesports.pw/live/vertorotvd2330b2b9138e537/index.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL TOROS (Op. 2)</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>https://hls.ssh101.com/live/SD360/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX HD ESPAÑA</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9208.applive.online/live/verfoxespana247756767558f1/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] AXN HD</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge8207.livesports.pw/live/veraxnespd1d0009c8e2342e7/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SYFY</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9206.applive.online/live/versysfesp42975d2f318954b/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] AMC ESPAÑA</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9208.applive.online/live/veramcespteledd21791245ff/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TNT HD</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edgoo0.telesport.pw/live/tnt/index.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CALLE13</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://cdn66.verliga.club/hls/live/calle13/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL ACCION</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9208.applive.online/live/veraccion177662786c60c28d/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL DCINE</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9208.applive.online/live/verdicneesp9084d46f8d69b2/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR SERIES</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9207.applive.online/live/vermseries9492273540e14a5/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL XTRA</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://xxedge53.livesports.pw/live/verfac76cd04cf56b2efe2cff/index.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL COCINA</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://edge9205.applive.online/live/vercocinaesp305b2a402c837/index.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MIAMI TV</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8?</link>
+                        </item>
+
+
+						<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Canales del Reino Unido[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ITV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/11/big_logo.png</thumbnail>
+                        <link>https://edge-1285-uk-ld.filmon.com/live/11.low.stream/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ITV 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/67/big_logo.png</thumbnail>
+                        <link>https://edge-1165-ch-gv.filmon.com/live/67.low.stream/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ITV 3</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/26/big_logo.png</thumbnail>
+                        <link>https://edge-1183-ch-gv.filmon.com/live/26.low.stream/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ITV 4</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/101/big_logo.png</thumbnail>
+                        <link>https://edge-1183-ch-gv.filmon.com/live/101.low.stream/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ITV BE</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/101/big_logo.png</thumbnail>
+                        <link>https://edge-823-ch-gv.filmon.com/live/3211.low.stream/playlist.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BBC ONE</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/101/big_logo.png</thumbnail>
+                        <link>https://edge-1276-de-fr.filmon.com/live/14.low.stream/playlist.m3u8</link>
+                        </item>
+
+<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Canales Estados Unidos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ABC NEWS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://static.filmon.com/assets/channels/101/big_logo.png</thumbnail>
+                        <link>http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8</link>
+                        </item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Fox News en vivo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=F4ozIM09eks</link>
+<thumbnail>http://www.livenewson.com/wp-content/uploads/2015/09/FNC2.jpg</thumbnail>
+<fanart>https://i.ytimg.com/vi/W5QmDtLkIN8/maxresdefault_live.jpg</fanart>
+<info></info>
+</item>
+
+						<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] CNN News en vivo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=gm2SGfjvgjM</link>
+<thumbnail>http://i.cdn.cnn.com/cnn/.e/img/3.0/global/misc/cnn-logo.png</thumbnail>
+<fanart>https://i.pinimg.com/736x/8b/1c/cc/8b1cccb545ad00f195c8c9dea2e8b09d.jpg</fanart>
+<info></info>
+</item>
