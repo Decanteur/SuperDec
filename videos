@@ -2,12 +2,12 @@
  
  
       <channel>
-    <name>          <<<<<<<<<Youtube>>>>>>>></name>
+    <name>          <<<<<<<<<Vídeos>>>>>>>></name>
     <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
     <fanart>http://i.imgur.com/vnB7jHv.jpg</fanart>
         <items>
                
-                        <item><title>[COLOR=yellow]                                      <<[/COLOR][COLOR=yellow]Videos De Youtube[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link>
+                        <item><title>[COLOR=yellow]                  <<[/COLOR][COLOR=yellow]Vídeos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link>
 <thumbnail>http://4.bp.blogspot.com/-azR4wYqv0KU/Vh1htt1EnFI/AAAAAAAAE1Y/OE1QN3jLFZA/s1600/logo1.jpg</thumbnail>
 </item>
          
@@ -29,8 +29,6 @@
 <info></info>
 </item>
 </items>
- 
- 
  
  
 <item>
