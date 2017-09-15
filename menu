@@ -70,6 +70,18 @@
    <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/peliculas</externallink>
 </channel>
   </channels>
+  
+  
+<channels>
+ 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Sagas Cinematográficas[/COLOR]</name>
+  <thumbnail>https://www.murhotels.com/images/blog/peliculas.jpg</thumbnail>
+<fanart>http://1.bp.blogspot.com/-V1bubZRqkV8/T2MNo9f8f0I/AAAAAAAABt0/mzdiFLBCYBI/s1600/saga_hellraiser.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/sagas</externallink>
+</channel>
+  </channels>
  
  
 <channels>
