@@ -69,7 +69,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Nova</title>
                         <fanart></fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
                         </item>
 
 
@@ -94,7 +94,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Mega</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/geomega_1@328914/index_1_av-p.m3u8?sd=10&rebase=on</link>
+                        <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
                         </item>
 
 
@@ -151,6 +151,13 @@
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://edgoo2.telesport.pw/live/bemad/index.m3u8</link>
+                        </item>
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] 13TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://3.bp.blogspot.com/-Uy9CGoCxJ1c/UHyQi93hVaI/AAAAAAAAOTU/q55agaqIXow/s1600/13TV+logo+2011.png</thumbnail>
+                        <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8</link>
                         </item>
 
 
