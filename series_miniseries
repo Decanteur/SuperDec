@@ -77,6 +77,15 @@
    <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/IronFist</externallink>
 </channel>
   </channels>
+  
+  <channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] Marvel's Inhumans[/COLOR]</name>
+  <thumbnail>http://www.hobbyconsolas.com/sites/hobbyconsolas.com/public/media/image/2017/05/inhumans.jpg</thumbnail>
+<fanart>http://sm.ign.com/ign_es/screenshot/default/inhumans_37p7.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/Inhumans</externallink>
+</channel>
+  </channels>
 
 <channel>
       <name>[COLOR cyan][COLOR  lime]•   [/COLOR] The Last Ship (Temporada 4)[/COLOR]</name>
