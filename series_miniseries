@@ -123,6 +123,15 @@
 </channel>
 </channels>
 
+<channel>
+      <name>[COLOR cyan][COLOR  lime]•   [/COLOR] El joven Sheldon[/COLOR]</name>
+  <thumbnail>https://pics.filmaffinity.com/young_sheldon_tv_series-862779135-large.jpg</thumbnail>
+<fanart>https://www.ecartelera.com/images/sets/24600/24670.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/joven_sheldon</externallink>
+</channel>
+</channels>
+
 
 <item><title>[COLOR=yellow]                      <<[/COLOR][COLOR=yellow] Stephen King[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
