@@ -3,28 +3,27 @@
  
 <channel>
     <name>          <<<<<<<<<Peliculas>>>>>>>></name>
-    <thumbnail>http://1.bp.blogspot.com/-bDos023a_yE/VpUfT7Jqd6I/AAAAAAAAE-8/pfCuzeOSIBE/s1600/4.jpg</thumbnail>
-    <fanart>http://cdn.wonderfulengineering.com/wp-content/uploads/2014/10/wallpaper-photos-4.jpg</fanart>
+    <thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Ix1vMUK7L.png</thumbnail>
+    <fanart>https://media.minutouno.com/adjuntos/150/imagenes/028/610/0028610154.png</fanart>
         <items>
 
 
                
-                        <item><title>[COLOR=yellow]                      <<[/COLOR][COLOR=yellow] Peliculas (ESP)[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
-                    
+                                        
 
                         <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Fast & Furious 8 (2017)</title>
-                        <fanart></fanart>
-                        <thumbnail>https://s-media-cache-ak0.pinimg.com/originals/8e/57/d6/8e57d61b4fedcd6e42bdd83ca7e6ed81.jpg</thumbnail>
-                        <link>http://streamcloud.eu/ijrgtqzslrbf/F4ST.FUR105.8.BRSCast.S256.avi.html</link>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] El ritual (2017)</title>
+                        <fanart>http://freakingeek.com/wp-content/uploads/2018/01/TheRitual-Banniere-800x445.jpg</fanart>
+                        <thumbnail>https://pics.filmaffinity.com/the_ritual-682266832-large.jpg</thumbnail>
+                        <link>http://streamcloud.eu/49j7big0of2s/th3.r1tu4l.2017.hdrip.720p.castellano.mp4.html</link>
                         </item>
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] El último Samurai (2003)</title>
-                        <fanart></fanart>
-                        <thumbnail>http://es.web.img3.acsta.net/medias/nmedia/18/67/78/13/20066706.jpg</thumbnail>
-                        <link>http://streamcloud.eu/g4pihn3nnftf</link>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mute (2018)</title>
+                        <fanart>https://sextabutaca.com/wp-content/uploads/2018/02/Mute-Netflix-movie-poster.jpg</fanart>
+                        <thumbnail>http://destinoarrakis.com/wp-content/uploads/2018/02/DWlRyLnWkAESfUP.jpg</thumbnail>
+                        <link>http://streamcloud.eu/v2g62q1lr9z2/mut3.2018.hdrip.720p.castellano.mp4.html</link>
                         </item>
 
 
