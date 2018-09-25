@@ -129,10 +129,10 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN DEPORTES</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://209.126.116.177:2086/505ESPN/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+                        <link>http://72.76.39.230:8000/play/a00i/index.m3u8</link>
                         </item>
 
 
@@ -160,6 +160,14 @@
                         <thumbnail></thumbnail>
                         <link>http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
                         </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT TIME</title>
+                        <fanart>http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-g.png</fanart>
+                        <thumbnail>http://fight-time.com/wp-content/uploads/2017/03/Fight-Time-Logo-Transparente-1.png</thumbnail>
+                        <link>http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8</link>
+                        </item>
 
             <item>
             <title>[COLOR=yellow]        <<[/COLOR][COLOR=yellow] Canales de Deportes en inglés[/COLOR][COLOR=yellow]>>[/COLOR]</title>
@@ -173,18 +181,24 @@
                         </item>
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] MBL Network</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MBL Network (US)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
                         </item>
 
-
-            
+           
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] IPTV 1</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://clipboard.space/raw/3jMBM6KpwPsRoXqJWQ7G</link>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg</thumbnail>
+                        <link>http://80.80.160.168/live/6/live.m3u8</link>
+                        </item>
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 2 (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png</fanart>
+                        <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
+                        <link>http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8</link>
                         </item>
