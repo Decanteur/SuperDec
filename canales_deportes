@@ -202,3 +202,83 @@
                         <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
                         <link>http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8</link>
                         </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS RACING (US)</title>
+                        <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
+                        <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
+                        <link>http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Main Event (EN)</title>
+                        <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
+                        <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
+                        <link>http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Action (EN)</title>
+                        <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
+                        <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
+                        <link>http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Football (EN)</title>
+                        <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
+                        <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
+                        <link>http://31.220.0.196:8081/live/ctvs2/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Arena (EN)</title>
+                        <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
+                        <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
+                        <link>http://31.220.0.134:8081/live/jtvs4/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT ESPN (EN)</title>
+                        <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
+                        <thumbnail>http://sport-onthebox.com/wp-content/uploads/2013/02/bt-buys-espn.png</thumbnail>
+                        <link>http://31.220.0.134:8081/live/jtvs4/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 1 (EN)</title>
+                        <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
+                        <thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201308011804.png</thumbnail>
+                        <link>http://31.220.0.134:8081/live/jtvb1/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 2 (EN)</title>
+                        <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
+                        <thumbnail>https://cdn.firstonetv.eu/images/logos/uk/BTSPORT2.png</thumbnail>
+                        <link>http://31.220.0.134:8081/live/jtvb2/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 3 (EN)</title>
+                        <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
+                        <thumbnail>https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png</thumbnail>
+                        <link>http://31.220.0.134:8081/live/jtvb3/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8</link>
+                        </item>
