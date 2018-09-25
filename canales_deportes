@@ -148,17 +148,25 @@
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
                         <link>http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
                         </item>
 
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 2</title>
-                        <fanart></fanart>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail></thumbnail>
                         <link>http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DirecTV_Sports_Latin_America_-_2018_logo.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo.svg.png</fanart>
+                        <thumbnailhttps://1.bp.blogspot.com/-Mn0Pp25ocps/WQkQMNG3-rI/AAAAAAAAAXk/TkFP0v2XjmkVLf5-W0uqGjvq4HGLedRMgCLcB/s1600/directvsports.png></thumbnail>
+                        <link>http://aleman.mine.nu:8000/live/oscar1/oscar1/3053.m3u8</link>
                         </item>
 			
 			
@@ -277,8 +285,24 @@
 			
 			
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS (POR)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
                         <link>http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SONY ESPN (EN)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png</fanart>
+                        <thumbnail>http://www.onlinetvchannels.net/wp-content/uploads/2018/02/Sony-ESPN-HD-live.png</thumbnail>
+                        <link>http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8</link>
                         </item>
