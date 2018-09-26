@@ -301,8 +301,24 @@
 			
 			
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DSports (EN)</title>
+                        <fanart>https://cricketaddictor.com/wp-content/uploads/2018/01/d-sPORTS.jpg</fanart>
+                        <thumbnail>http://i.imgur.com/71615fY.jpg</thumbnail>
+                        <link>http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SONY ESPN (EN)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/9/95/Sony_ESPN.svg/1200px-Sony_ESPN.svg.png</fanart>
                         <thumbnail>http://www.onlinetvchannels.net/wp-content/uploads/2018/02/Sony-ESPN-HD-live.png</thumbnail>
                         <link>http://cshms2.airtel.tv/wh7f454c46tw1822183975_1333194908/PLTV/88888888/224/3221226076/02.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SONY SIX (EN)</title>
+                        <fanart>https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-six-sd.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/en/2/20/Sony_SIX_logo.png</thumbnail>
+                        <link>http://cshms4.airtel.tv/wh7f454c46tw3189386479_1439368730/PLTV/88888888/224/3221225780/01.m3u8</link>
                         </item>
