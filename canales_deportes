@@ -344,10 +344,50 @@
 			
 			
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 1 HD (FR)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
+                        <link>http://163.172.105.25:80/live?channelId=175&deviceMac=00:1A:79:3C:CA:45&uid=6511</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 2 HD (FR)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
+                        <link>http://163.172.105.25:80/live?channelId=176&deviceMac=00:1A:79:3C:CA:45&uid=6511</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 3 HD (FR)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS3.png</thumbnail>
+                        <link>http://163.172.105.25:80/live?channelId=177&deviceMac=00:1A:79:3C:CA:45&uid=6511</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
                         <link>http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORTITALIA (IT)</title>
+                        <fanart>https://www.calcioefinanza.it/wp-content/uploads/2016/07/sportitalia-e1522408947655.jpg</fanart>
+                        <thumbnail>https://i.ytimg.com/vi/SDq4FKYiobA/hqdefault.jpg</thumbnail>
+                        <link>https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-IT_e-885278_i-1866979820180627132246_k-_q-_t-hds/sportitalia247_1@5383/index_2000_av-p.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] RAI SPORT 1 HD (IT)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png</fanart>
+                        <thumbnail>https://www.tv-in-diretta.it/uploads/channels/8558_1712.png</thumbnail>
+                        <link>https://l1tvlive1-lh.akamaihd.net/i/p-2786_u-_l-2786_hls_a-_c-IT_e-885278_i-1866979820180627132246_k-_q-_t-hds/sportitalia247_1@5383/index_2000_av-p.m3u8</link>
                         </item>
 			
 			
