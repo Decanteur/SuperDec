@@ -219,7 +219,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Main Event (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://62.210.99.158:80/live?channelId=129&deviceMac=00:1A:79:3C:C9:5C&uid=3303</link>
+                        <link>http://31.220.0.134:8081/live/jtvs1/playlist.m3u8</link>
                         </item>
 			
 			
@@ -251,7 +251,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Arena (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>https://tv.wlive.tv/tv/IvLEUWa0Ka20180321/chunklist_w442876836_tkaGxzZW5kdGltZT0xNTM3OTgxNTAwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9STk5T3BwbHNvQlpZV1VKVXJQRlJVZ2lfZWVkUUdpcENEQXp1NkpxSFpSQT0=.m3u8</link>
+                        <link>http://31.220.0.196:8081/live/ctvs4/playlist.m3u8</link>
                         </item>
 			
 			
@@ -267,7 +267,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT ESPN (EN)</title>
                         <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
                         <thumbnail>http://sport-onthebox.com/wp-content/uploads/2013/02/bt-buys-espn.png</thumbnail>
-                        <link>https://tv.wlive.tv/tv/k2agnwxZvv20180321/chunklist_w156774008_tkaGxzZW5kdGltZT0xNTM3OTgyMjIwJmhsc3N0YXJ0dGltZT0wJmhsc2hhc2g9T18weEhjZjVIRXNKcG9QVnRjZnhIcVRjMGR2ZGswRHRnbW4xdGduc1BPST0=.m3u8</link>
+                        <link>http://31.220.0.196:8081/live/ctvb4/playlist.m3u8</link>
                         </item>
 			
 			
@@ -344,18 +344,18 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 1 HD (FR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 1 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
-                        <link>http://163.172.105.25:80/live?channelId=175&deviceMac=00:1A:79:3C:CA:45&uid=6511</link>
+                        <link>http://31.220.0.134:8081/live/sk1/playlist.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 2 HD (FR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 2 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://163.172.105.25:80/live?channelId=176&deviceMac=00:1A:79:3C:CA:45&uid=6511</link>
+                        <link>http://31.220.0.134:8081/live/sk2/playlist.m3u8</link>
                         </item>
 			
 			
