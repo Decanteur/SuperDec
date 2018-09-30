@@ -205,6 +205,14 @@
                         <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
                         <link>http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8</link>
                         </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CBS Sports (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png</fanart>
+                        <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
+                        <link>http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8</link>
+                        </item>
 
 
 						<item>
@@ -219,7 +227,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Main Event (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://31.220.0.134:8081/live/jtvs1/playlist.m3u8</link>
+                        <link>http://vietcago.net/vstv/skysp1.m3u8</link>
                         </item>
 			
 			
@@ -227,7 +235,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Action (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://62.210.99.158:80/live?channelId=119&deviceMac=00:1A:79:3C:C9:5C&uid=3303</link>
+                        <link>http://vietcago.net/vstv/skysp4.m3u8</link>
                         </item>
 			
 			
@@ -243,7 +251,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Football (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://62.210.99.158:80/live?channelId=125&deviceMac=00:1A:79:3C:C9:5C&uid=3303</link>
+                        <link>http://vietcago.net/vstv/skysp5.m3u8</link>
                         </item>
 			
 			
@@ -344,6 +352,30 @@
 			
 			
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN Sport 1 (FR)</title>
+                        <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
+                        <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
+                        <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/5226.ts</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN Sport 2 (FR)</title>
+                        <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
+                        <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
+                        <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/5227.ts</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN Sport 3 (FR)</title>
+                        <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
+                        <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
+                        <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/5228.ts</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SK 1 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
@@ -404,6 +436,14 @@
                         <fanart>https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg</fanart>
                         <thumbnail>https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg</thumbnail>
                         <link>https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Fight World HD (EN)</title>
+                        <fanart>https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg</fanart>
+                        <thumbnail>https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg</thumbnail>
+                        <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/7120.ts</link>
                         </item>
 			
 			
