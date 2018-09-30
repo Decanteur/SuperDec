@@ -37,10 +37,10 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Verano Noventero</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] 24H</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlslive_1@184338/index_1500_av-p.m3u8?sd=10&rebase=on</link>
+                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</link>
                         </item>
                     
 					
@@ -50,7 +50,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Antena 3</title>
                         <fanart></fanart>
                         <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-antena-3.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/master.m3u8</link>
+                        <link>https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -115,7 +115,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Energy</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://edgoo5.telesport.pw/live/energy/index.m3u8</link>
+                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</link>
                         </item>
 
 
@@ -123,7 +123,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Diviniy</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://edge9207.applive.online/live/verdivinity84d3666dac8715/index.m3u8</link>
+                        <link>http://mdslivehls-i.akamaihd.net/hls/live/571648/divinity/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -131,7 +131,23 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FDF</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://mset-prod-1.live-delivery.ooyala.com/out/u/3vkkbgnvsm2r5/104951/5vMGFjYjE6FW20QNvfFor1J8AiF0JAyp/cn/73742da67a5947919a8bb82035fa9224_4.m3u8</link>
+                        <link>https://mdslivehls-i.akamaihd.net/hls/live/571650/fdf/bitrate_4.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Boing</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Be Mad TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?xtreamiptv.m3u8</link>
                         </item>
 
 
@@ -142,30 +158,16 @@
                         <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on</link>
                         </item>
 
-
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Be Mad TV</title>
-                        <fanart></fanart>
-                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://edgoo2.telesport.pw/live/bemad/index.m3u8</link>
-                        </item>
+						
 			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] 13TV</title>
                         <fanart></fanart>
                         <thumbnail>http://3.bp.blogspot.com/-Uy9CGoCxJ1c/UHyQi93hVaI/AAAAAAAAOTU/q55agaqIXow/s1600/13TV+logo+2011.png</thumbnail>
-                        <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/.m3u8</link>
+                        <link>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</link>
                         </item>
-
-
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal Extremadura SAT</title>
-                        <fanart></fanart>
-                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
-                        </item>
-
-
+			
+			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] Disney Channel</title>
                         <fanart></fanart>
@@ -180,6 +182,55 @@
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ten_cpyjq8k/chunklist.m3u8?st=YI8uKtfC5-hZVfyckuNOQg&e=1501677464</link>
                         </item>
+			
+			
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] INTERECONOMÍA TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal Extremadura SAT</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal Sur</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TeleMadrid</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] La Otra</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/laotra1/index.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] 7 Murcia</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
+                        </item>
+						
 
 
 						<item>
@@ -194,7 +245,7 @@
 
 						<item>
 <title>[COLOR white][COLOR blue]• [/COLOR] RT en Español</title>
-<link>plugin://plugin.video.youtube/play/?video_id=kFpzwhYhNg4</link>
+<link>https://secure-streams.akamaized.net/rt-esp/index.m3u8?xtreamiptv.m3u8</link>
 <thumbnail>https://lh3.googleusercontent.com/-z391X3IQmhI/VrJFiEZp59I/AAAAAAAADi0/J21wswxa3_o/h250/RT%2BEspa%25C3%25B1ol.png</thumbnail>
 <fanart>https://actualidad.rt.com/static/img/og-logo-rt.jpg</fanart>
 <info>RT en español ofrece una alternativa real en el mundo de la información. Las noticias de actualidad de las que no hablan los principales canales internacionales adquieren importancia mundial en RT en español. </info>
@@ -269,10 +320,10 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Virgin TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Heart TV</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://wow01.105.net/live/virgin1/playlist.m3u8</link>
+                        <link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8</link>
                         </item>
 
 
@@ -280,7 +331,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Hit TV</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live</link>
+                        <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -308,14 +359,6 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] PORTALFOXMIX.TV</title>
-                        <fanart></fanart>
-                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8</link>
-                        </item>
-
-
-						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ONE TV</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
@@ -334,10 +377,10 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] </title>
+                        <title>[COLOR white][COLOR blue]• Iberalia TV[/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link></link>
+                        <link>https://input2.fractalmedia.es/hls/iberaliatv.m3u8</link>
                         </item>
 
 				
