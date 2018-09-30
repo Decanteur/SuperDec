@@ -43,9 +43,7 @@
                         <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</link>
                         </item>
                     
-					
-
-
+			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] Antena 3</title>
                         <fanart></fanart>
@@ -263,7 +261,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] 24H</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</link>
                         </item>
 
 						<item>
@@ -274,45 +272,44 @@
                         </item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] TN en vivo</title>
-<link>plugin://plugin.video.youtube/play/?video_id=0tek2aa8hAQ</link>
-<thumbnail>https://pbs.twimg.com/profile_images/875694019132751872/nRQYNh5u.jpg</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png</fanart>
-<info></info>
-</item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] TN en vivo</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=0tek2aa8hAQ</link>
+			<thumbnail>https://pbs.twimg.com/profile_images/875694019132751872/nRQYNh5u.jpg</thumbnail>
+			<fanart>https://upload.wikimedia.org/wikipedia/commons/2/22/Todo_Noticias_2016.png</fanart>
+			<info></info>
+			</item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] DW Español en VIVO</title>
-<link>plugin://plugin.video.youtube/play/?video_id=saTxSbSl8cU</link>
-<thumbnail>https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
-<fanart>https://expediente.tv/wp-content/uploads/2017/07/DW-1024x576.png</fanart>
-<info></info>
-</item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] DW Español en VIVO</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=saTxSbSl8cU</link>
+			<thumbnail>https://yt3.ggpht.com/-D1Z6emsTKE0/AAAAAAAAAAI/AAAAAAAAAAA/46wxJGxiRkc/s900-c-k-no-mo-rj-c0xffffff/photo.jpg</thumbnail>
+			<fanart>https://expediente.tv/wp-content/uploads/2017/07/DW-1024x576.png</fanart>
+			<info></info>
+			</item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] C5N en VIVO</title>
-<link>plugin://plugin.video.youtube/play/?video_id=yc702qA1CPw</link>
-<thumbnail>http://4.bp.blogspot.com/_vfs9jxL82wA/TAvM37jHVeI/AAAAAAAAPeo/Iv3HDNEg9I4/s400/c5n.jpg</thumbnail>
-<fanart>http://d2445imzl4t8r9.cloudfront.net/images/C5N-5d249092f8fd95447a5c187ea59acbad.png</fanart>
-<info></info>
-</item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] C5N en VIVO</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=yc702qA1CPw</link>
+			<thumbnail>http://4.bp.blogspot.com/_vfs9jxL82wA/TAvM37jHVeI/AAAAAAAAPeo/Iv3HDNEg9I4/s400/c5n.jpg</thumbnail>
+			<fanart>http://d2445imzl4t8r9.cloudfront.net/images/C5N-5d249092f8fd95447a5c187ea59acbad.png</fanart>
+			<info></info>
+			</item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Euronews en español en vivo</title>
-<link>plugin://plugin.video.youtube/play/?video_id=TRGkVV2Y2XI</link>
-<thumbnail>http://oklivetv.com/wp-content/uploads/2015/02/euronewses.jpg</thumbnail>
-<fanart>http://es.euronews.com/images/fallback.jpg</fanart>
-<info></info>
-</item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] Euronews en español en vivo</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=TRGkVV2Y2XI</link>
+			<thumbnail>http://oklivetv.com/wp-content/uploads/2015/02/euronewses.jpg</thumbnail>
+			<fanart>http://es.euronews.com/images/fallback.jpg</fanart>
+			<info></info>
+			</item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] Excélsior TV en vivo</title>
-<link>plugin://plugin.video.youtube/play/?video_id=L3pAMSDepok</link>
-<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
-<fanart>https://i.ytimg.com/vi/Ohg-_fimIRY/maxresdefault.jpg</fanart>
-<info></info>
-</item>
-						
+			<title>[COLOR white][COLOR blue]• [/COLOR] Excélsior TV en vivo</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=L3pAMSDepok</link>
+			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
+			<fanart>https://i.ytimg.com/vi/Ohg-_fimIRY/maxresdefault.jpg</fanart>
+			<info></info>
+			</item>	
 
 
 						<item><title>[COLOR=yellow]                    <<[/COLOR][COLOR=yellow] Canales musicales[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
@@ -390,11 +387,12 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link></link>
-                        </item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] BBC News</title>
+			<link>http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END</link>
+			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
 
 
 					
@@ -402,10 +400,66 @@
 <item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Estados Unidos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] </title>
+                        <title>[COLOR white][COLOR blue]RT USA [/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link></link>
+                        <link>http://secure-streams.akamaized.net/rt-usa/index2500.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]The Weather Channel [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]Weather Nation [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]Bloomberg TV [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://liveproduseast.global.ssl.fastly.net/btv/desktop/us_live.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]ABC News [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]CBSN News [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]CGTN USA [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://api.new.livestream.com/accounts/7082210/events/7115682/live.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]MSNBC [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8</link>
                         </item>
 
 					
