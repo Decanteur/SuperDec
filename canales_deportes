@@ -113,10 +113,10 @@
                         </item> 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (ENG)</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://edge2.liveonlinetv247.info/live/eurosport-hq/playlist.m3u8</link>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TDTV (MEX)</title>
+                        <fanart>http://tododeportestv.com/wp-content/themes/td/images/logo.png</fanart>
+                        <thumbnail>http://webcongress.com/honduras/wp-content/uploads/sites/85/2017/01/todo-deportes.png</thumbnail>
+                        <link>http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u8</link>
                         </item>
 
 
@@ -185,9 +185,9 @@
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MLB Network (US)</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8</link>
+                        <fanart>https://www.ontvtonight.com/static/2/Open/2400x2400_1578/Source/45053/mlbnetworkhd_2400_color_dark_light.png</fanart>
+                        <thumbnail>http://www.mlb.com/assets/images/9/1/2/196306912/cuts/mlbn_logo_400x300_ljtuhlxz_cuqseo4b.png</thumbnail>
+                        <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8</link>
                         </item>
 
            
@@ -396,6 +396,14 @@
                         <fanart>https://cricketaddictor.com/wp-content/uploads/2018/01/d-sPORTS.jpg</fanart>
                         <thumbnail>http://i.imgur.com/71615fY.jpg</thumbnail>
                         <link>http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226484/04.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Stadium Sports Network (US)</title>
+                        <fanart>https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg</fanart>
+                        <thumbnail>https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg</thumbnail>
+                        <link>https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8</link>
                         </item>
 			
 			
