@@ -16,7 +16,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] La 1</title>
                         <fanart></fanart>
                         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
-                        <link>http://hlsackdn_gl7-lh.akamaihd.net/i/hlslive_1@439316/index_0400_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/914.m3u8</link>
                         </item>
 
 
@@ -242,20 +242,20 @@
 <item><title>[COLOR=yellow]                    <<[/COLOR][COLOR=yellow] Canales de noticias[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] RT en Español</title>
-<link>https://secure-streams.akamaized.net/rt-esp/index.m3u8?xtreamiptv.m3u8</link>
-<thumbnail>https://lh3.googleusercontent.com/-z391X3IQmhI/VrJFiEZp59I/AAAAAAAADi0/J21wswxa3_o/h250/RT%2BEspa%25C3%25B1ol.png</thumbnail>
-<fanart>https://actualidad.rt.com/static/img/og-logo-rt.jpg</fanart>
-<info>RT en español ofrece una alternativa real en el mundo de la información. Las noticias de actualidad de las que no hablan los principales canales internacionales adquieren importancia mundial en RT en español. </info>
-</item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] RT en Español</title>
+			<link>https://secure-streams.akamaized.net/rt-esp/index.m3u8?xtreamiptv.m3u8</link>
+			<thumbnail>https://lh3.googleusercontent.com/-z391X3IQmhI/VrJFiEZp59I/AAAAAAAADi0/J21wswxa3_o/h250/RT%2BEspa%25C3%25B1ol.png</thumbnail>
+			<fanart>https://actualidad.rt.com/static/img/og-logo-rt.jpg</fanart>
+			<info>RT en español ofrece una alternativa real en el mundo de la información. Las noticias de actualidad de las que no hablan los principales canales internacionales adquieren importancia mundial en RT en español. </info>
+			</item>
 
 						<item>
-<title>[COLOR white][COLOR blue]• [/COLOR] CNN en Español</title>
-<link>plugin://plugin.video.youtube/play/?video_id=RFy2yclbnyc</link>
-<thumbnail>https://1.bp.blogspot.com/-fWKxj6gUHuU/WIEJN3vZYWI/AAAAAAAAc7A/f5ZuTEQN9QE57A2seN33OZ16RzoeR3j7wCLcB/s1600/noticias-cnn-en-espanol.png</thumbnail>
-<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png</fanart>
-<info>CNN en Español es un canal de televisión por suscripción de noticias operado por Time Warner y dirigido a Latinoamérica-Caribe y al público hablante del español en Estados Unidos.</info>
-</item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] CNN en Español</title>
+			<link>plugin://plugin.video.youtube/play/?video_id=RFy2yclbnyc</link>
+			<thumbnail>https://1.bp.blogspot.com/-fWKxj6gUHuU/WIEJN3vZYWI/AAAAAAAAc7A/f5ZuTEQN9QE57A2seN33OZ16RzoeR3j7wCLcB/s1600/noticias-cnn-en-espanol.png</thumbnail>
+			<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png</fanart>
+			<info>CNN en Español es un canal de televisión por suscripción de noticias operado por Time Warner y dirigido a Latinoamérica-Caribe y al público hablante del español en Estados Unidos.</info>
+			</item>
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] 24H</title>
@@ -343,7 +343,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] VH1</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://93.174.93.84:8081/live/vh1-hq/playlist.m3u8</link>
+                        <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/7105.ts</link>
                         </item>
 
 
@@ -461,5 +461,33 @@
                         <thumbnail></thumbnail>
                         <link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8</link>
                         </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]NBC [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8</link>
+                        </item>
+			
+			
+<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Francia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]BFM TV (1+) [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/573.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]TV5 Monde [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://51.15.15.140:25461/live/dreamgafsa/0MDd8DE5Qe/570.m3u8</link>
+                        </item>
+						
 
 					
