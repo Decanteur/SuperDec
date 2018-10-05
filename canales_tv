@@ -24,7 +24,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] La 2</title>
                         <fanart></fanart>
                         <thumbnail>http://www.emadridnet.org/images/stories/la2.png</thumbnail>
-                        <link>http://hlsackdn_gl0-lh.akamaihd.net/i/hlslive_1@439422/index_1500_av-b.m3u8</link>
+                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/la2_lv3_aosv4_gl0/la2_lv3_aosv4_gl0.isml/la2_lv3_aosv4_gl0.m3u8</link>
                         </item>
 
 
@@ -393,9 +393,40 @@
 			<fanart></fanart>
 			<info></info>
 			</item>
+		
+		
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] SKY News</title>
+			<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+			<thumbnail></thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+		
+		<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Francia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
+		
+		
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] France 24</title>
+			<link>http://f24hls-i.akamaihd.net/hls/live/221192/F24_FR_LO_HLS/master_900.m3u8</link>
+			<thumbnail></thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+		
+		<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Italia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
-					
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] SKY TG24</title>
+			<link>http://skyianywhere2-i.akamaihd.net:80/hls/live/200275/tg24/playlist.m3u8</link>
+			<thumbnail></thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
 
 <item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Estados Unidos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
@@ -436,6 +467,14 @@
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]ABC [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://live.field59.com/wwsb/ngrp:wwsb1_all/playlist.m3u8</link>
                         </item>
 			
 			
