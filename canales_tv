@@ -228,6 +228,22 @@
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/master.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Aragón TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Aragón TV Internacional</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8</link>
+                        </item>
 						
 
 
@@ -417,6 +433,22 @@
 			</item>
 		
 		
+						<item>
+                        <title>[COLOR white][COLOR blue]BFM PARIS [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://bfmparishdslive-lh.akamaihd.net/i/DVMR_PARIS@429747/master.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]TV5 Monde [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://51.15.15.140:25461/live/dreamgafsa/0MDd8DE5Qe/570.m3u8</link>
+                        </item>
+		
+		
 		<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Italia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
 						<item>
@@ -430,6 +462,14 @@
 
 <item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Estados Unidos[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
+						<item>
+                        <title>[COLOR white][COLOR blue]FOX NEWS [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8</link>
+                        </item>
+		
+		
 						<item>
                         <title>[COLOR white][COLOR blue]RT USA [/COLOR] </title>
                         <fanart></fanart>
@@ -482,7 +522,7 @@
                         <title>[COLOR white][COLOR blue]CBSN News [/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://cbsnewshd-lh.akamaihd.net:80/i/CBSNHD_7@199302/index_1200_av-b.m3u8</link>
+                        <link>http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8</link>
                         </item>
 			
 			
@@ -513,20 +553,7 @@
 <item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Francia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 			
 			
-						<item>
-                        <title>[COLOR white][COLOR blue]BFM TV (1+) [/COLOR] </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/573.m3u8</link>
-                        </item>
-			
-			
-						<item>
-                        <title>[COLOR white][COLOR blue]TV5 Monde [/COLOR] </title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://51.15.15.140:25461/live/dreamgafsa/0MDd8DE5Qe/570.m3u8</link>
-                        </item>
+						
 						
 
 					
