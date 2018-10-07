@@ -96,6 +96,14 @@
                         <thumbnail></thumbnail>
                         <link>http://xxedge55.livesports.pw/live/verfutbolespmd8d7b9cbe039/index.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Real Madrid TV</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8</link>
+                        </item>
 
 
 						<item>
@@ -133,6 +141,14 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://72.76.39.230:8000/play/a00i/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://live.nibbletv.info/CH/rOd9SO96Sx6T/ESPN.m3u8</link>
                         </item>
 
 
@@ -236,6 +252,14 @@
                         <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
                         <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
                         <link>http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] PACK 12 NETWORK (US)</title>
+                        <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
+                        <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
+                        <link>http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8</link>
                         </item>
 			
 			
