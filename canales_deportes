@@ -62,7 +62,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] LA LIGA TV</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ligarincon_a539aod/playlist.m3u8</link>
+                        <link>http://spainiptv.selfip.info:8000/live/tvbecam18/15258/54462.m3u8</link>
                         </item>
 
 
@@ -283,7 +283,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Main Event (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://vietcago.net/vstv/skysp1.m3u8</link>
+                        <link>http://103.194.168.197:8081/live/jtvs1/playlist.m3u8</link>
                         </item>
 			
 			
@@ -291,7 +291,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Action (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://vietcago.net/vstv/skysp4.m3u8</link>
+                        <link>http://103.194.168.197:8081/live/jtvs3/playlist.m3u8</link>
                         </item>
 			
 			
@@ -315,7 +315,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Arena (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://31.220.0.196:8081/live/ctvs4/playlist.m3u8</link>
+                        <link>http://103.194.168.197:8081/live/jtvs4/playlist.m3u8</link>
                         </item>
 			
 			
@@ -376,10 +376,10 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 2 (POR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ELEVEN SPORTS 2 (EN)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png</thumbnail>
-                        <link>http://77.54.248.94:9981/stream/channelid/1550043205</link>
+                        <link>http://61.58.60.230:9000/live/102.m3u8?fluxustv.m3u8</link>
                         </item>
 			
 			
@@ -424,11 +424,11 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN Sport 3 (FR)</title>
-                        <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
-                        <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
-                        <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/5228.ts</link>
-                        </item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://297332fb.shukinuki.ru/iptv/MKHRHABR99BQ4P/141/index.m3u8</link>
+                        </item>                 
 			
 			
 						<item>
@@ -477,6 +477,14 @@
                         <thumbnail>https://www.tv-in-diretta.it/uploads/channels/8558_1712.png</thumbnail>
                         <link>https://raisportdue1-live.akamaized.net/hls/live/598322/raisportdue1/raisport2_1800/chunklist.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EXTREME SPORTS (EN)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png</fanart>
+                        <thumbnail>https://www.tv-in-diretta.it/uploads/channels/8558_1712.png</thumbnail>
+                        <link>http://persik.by/stream/1418/252987/10309.m3u8</link>
+                        </item>
 			
 			
 						<item>
@@ -492,6 +500,14 @@
                         <fanart>https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg</fanart>
                         <thumbnail>https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg</thumbnail>
                         <link>https://d28avce4cnwu2y.cloudfront.net/v1/manifest/61a556f78e4547c8ab5c6297ea291d6350767ca2/Mux/37f5dd6d-5713-4998-8354-8c6675612b42/0.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FLOW SPORTS (EN)</title>
+                        <fanart>https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg</fanart>
+                        <thumbnail>https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg</thumbnail>
+                        <link>http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8</link>
                         </item>
 			
 			
