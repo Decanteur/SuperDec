@@ -239,14 +239,14 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Aragón TV Internacional</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Miami TV en español</title>
                         <fanart></fanart>
-                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8</link>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
                         </item>
-						
 
-
+				
+				
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MTV España</title>
                         <fanart></fanart>
