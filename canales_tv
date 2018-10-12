@@ -204,6 +204,14 @@
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://canalsur-live.hls.adaptive.level3.net/hls-live/canalsur_live-rtva/_definst_/live/stream3.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Canal Sur Cocina</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/chunklist_w1596495208.m3u8</link>
+                        </item>
 			
 			
 						<item>
@@ -212,8 +220,8 @@
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
                         </item>
-
-
+		
+		
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] La Otra</title>
                         <fanart></fanart>
@@ -344,7 +352,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Hit TV</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_4.m3u8</link>
+                        <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_3.m3u8</link>
                         </item>
 
 
@@ -360,6 +368,14 @@
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
                         <link>http://xbox.ztv4you.com:25461/live/PD8fkEdbZ5/iz55nL9LQn/7105.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TELESAFOR</title>
+                        <fanart></fanart>
+                        <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
+                        <link>http://video.telesafor.com/hls/video_high.m3u8</link>
                         </item>
 
 
