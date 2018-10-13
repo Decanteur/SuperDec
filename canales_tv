@@ -48,7 +48,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Antena 3</title>
                         <fanart></fanart>
                         <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-antena-3.jpg</thumbnail>
-                        <link>https://livepull1.secure.footprint.net/antena3mpp/bitrate_4.m3u8</link>
+                        <link>https://antena3-pull2b-a3player.secure.footprint.net/geoantena3/bitrate_3.m3u8</link>
                         </item>
 
 
@@ -56,7 +56,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Neox</title>
                         <fanart></fanart>
                         <thumbnail>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>https://neox-pull2b-a3player.secure.footprint.net/geoneox/bitrate_3.m3u8</link>
                         </item>
 
 
@@ -80,7 +80,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] La Sexta</title>
                         <fanart></fanart>
                         <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/lasexta_1@35272/index_3_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>https://lasexta-pull2c-a3player.secure.footprint.net/lasexta/bitrate_3.m3u8</link>
                         </item>
 
 
