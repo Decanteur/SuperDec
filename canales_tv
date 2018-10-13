@@ -64,7 +64,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Nova</title>
                         <fanart></fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/master.m3u8</link>
+                        <link>https://nova-pull2c-a3player.secure.footprint.net/geonova/bitrate_3.m3u8</link>
                         </item>
 
 
@@ -72,7 +72,15 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] A3Series</title>
                         <fanart></fanart>
                         <thumbnail>https://imediagala.files.wordpress.com/2015/12/a3series.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>https://a3series-pull2a-a3player.secure.footprint.net/a3series/bitrate_3.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://mega-pull2a-a3player.secure.footprint.net/geomega/bitrate_3.m3u8</link>
                         </item>
 
 
@@ -86,14 +94,6 @@
 
 
                         <item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Mega</title>
-                        <fanart></fanart>
-                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/master.m3u8</link>
-                        </item>
-
-
-						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] Cuatro</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
@@ -154,6 +154,14 @@
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] PARAMOUNT NETWORK</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://paramount-live.flumotion.com/live/chunks.m3u8</link>
                         </item>
 
 						
@@ -292,7 +300,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Euronews</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://euronews-es-p-cdn.hexaglobe.net/aefc989c6e906e01efe89634e4348ae6/59807426/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_540p.m3u8</link>
+                        <link>https://euronews-es-p9-cdn.hexaglobe.net/ad22df8ee43fc7ca1c537e089791bfac/5bc1a661/euronews/euronews-euronews-website-web-responsive-2/ewnsabrespri_spa.smil/ewnsabrespri_spa_540p.m3u8</link>
                         </item>
 
 						<item>
@@ -415,6 +423,8 @@
 				
 						<item><title>[COLOR=red]              <<[/COLOR][COLOR=red] Canales Extranjeros[/COLOR][COLOR=red]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
+		
+		
 						<item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Reino Unido[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
 
@@ -431,6 +441,24 @@
 			<title>[COLOR white][COLOR blue]• [/COLOR] SKY News</title>
 			<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
 			<thumbnail></thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+		
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] EURONEWS (EN)</title>
+			<link>https://euronews-en-b-cdn.hexaglobe.net/98e7827493a77c8e848ab29dd636e9c1/5bc1a8f6/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8</link>
+			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+		
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] BLOOMBERG (EN)</title>
+			<link>https://bblive-liveprodeuwest.hs.llnwd.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-700-1_live.m3u8</link>
+			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
 			<fanart></fanart>
 			<info></info>
 			</item>
