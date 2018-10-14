@@ -16,7 +16,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] La 1</title>
                         <fanart></fanart>
                         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/7/76/La_1_HD_TVE.png</thumbnail>
-                        <link>http://newtv.dyndns.org:25461/live/dreamgafsa/0MDd8DE5Qe/914.m3u8</link>
+                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl7/la1_lv3_aosv4_gl7/la1_lv3_aosv4_gl7.isml/la1_lv3_aosv4_gl7-audio=128000-video=400000.m3u8</link>
                         </item>
 
 
@@ -32,7 +32,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] TDP</title>
                         <fanart></fanart>
                         <thumbnail>https://upload.wikimedia.org/wikipedia/fr/2/26/Teledeporte_logo.png</thumbnail>
-                        <link>http://hlsackdn_gl1-lh.akamaihd.net/i/hlsdvrlive_1@137561/index_1500_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8</link>
                         </item>
 
 
@@ -202,7 +202,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Canal Extremadura SAT</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
+                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u88</link>
                         </item>
 			
 			
@@ -251,6 +251,22 @@
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CMM</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://fstlive.kaltura.com/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/ifm5L7FLTqavxjA9TQ7e9w/index-s32.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CyL7</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://nws.nice264.com/ilive/cyl/cyl_aaf8301a8e99d2acb611ceca62441ec5/playlist.m3u8</link>
                         </item>
 		
 		
@@ -388,25 +404,25 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] VIBEE.TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] RETRO TV</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://46.101.21.42:8081/live/live2/playlist.m3u8</link>
+                        <link>http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8</link>
                         </item>
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ONE TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] POWER HD</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://server5.stweb.tv/radioone/live/playlist.m3u8</link>
+                        <link>http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8</link>
                         </item>
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Stars TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NRJ HITS</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://starstv.live.e55-po.insyscd.net/starstvhd.smil/index.m3u8</link>
+                        <link>http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1339281553.m3u8</link>
                         </item>
 
 
