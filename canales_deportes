@@ -424,34 +424,34 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENAVISION 1 (HR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENA SPORT 1 (HR)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
-                        <link>http://tv.iptvsensation.com:6500/live/12esun1114q/DCIGu3VVHw/8228.m3u8</link>
+                        <link>http://185.59.220.134:8080/arena1/index.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENAVISION 2 (HR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENA SPORT 2 (HR)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
-                        <link>http://tv.iptvsensation.com:6500/live/12esun1114q/DCIGu3VVHw/8229.m3u8</link>
+                        <link>http://185.59.220.134:8080/arena2/index.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENAVISION 3 (HR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENA SPORT 3 (HR)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
-                        <link>http://tv.iptvsensation.com:6500/live/12esun1114q/DCIGu3VVHw/8230.m3u8</link>
+                        <link>http://185.59.220.134:8080/arena3/index.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENAVISION 4 (HR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENA SPORT 4 (HR)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
-                        <link>http://tv.iptvsensation.com:6500/live/12esun1114q/DCIGu3VVHw/8231.m3u8</link>
+                        <link>http://185.59.220.134:8080/arena4/index.m3u8</link>
                         </item>
 			
 			
@@ -459,15 +459,23 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (RU)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://297332fb.shukinuki.ru/iptv/MKHRHABR99BQ4P/141/index.m3u8</link>
-                        </item>                 
+                        <link>http://185.59.220.134:8080/eurosport2/index.m3u8</link>
+                        </item>  
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://185.59.220.134:8080/eurosport2/index.m3u8</link>
+                        </item>                
 			
 			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SK 1 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
-                        <link>http://31.220.0.134:8081/live/sk1/playlist.m3u8</link>
+                        <link>http://185.59.220.134:8080/sk1/index.m3u8</link>
                         </item>
 			
 			
@@ -475,7 +483,39 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SK 2 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://31.220.0.134:8081/live/sk2/playlist.m3u8</link>
+                        <link>http://185.59.220.134:8080/sk2/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 3 (RU)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
+                        <link>http://185.59.220.134:8080/sk3/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 4 (RU)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
+                        <link>http://185.59.220.134:8080/sk4/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 5 (RU)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
+                        <link>http://185.59.220.134:8080/sk5/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 6 (RU)</title>
+                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
+                        <link>http://185.59.220.134:8080/sk6/index.m3u8</link>
                         </item>
 			
 			
