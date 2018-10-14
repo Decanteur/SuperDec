@@ -23,7 +23,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] TELEDEPORTE</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://xxedge53.livesports.pw/live/verteledeporteespa011482c/index.m3u8</link>
+                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl1/tdp_onlydash_lv3_aosv4_gl1/tdp_onlydash_lv3_aosv4_gl1.isml/master.m3u8</link>
                         </item>
                     
 
@@ -103,6 +103,14 @@
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8?sd=10&rebase=on?iptvgratis?chile.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Sevilla FC</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8</link>
                         </item>
 
 
