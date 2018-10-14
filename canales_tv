@@ -175,10 +175,10 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Disney Channel</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] LIFE TV</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://xxedge61.livesports.pw/live/verdisneychannelb3cece21d/index.m3u8</link>
+                        <link>http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8</link>
                         </item>
 
 
@@ -494,6 +494,15 @@
 		
 		
 						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] France Info</title>
+			<link>https://stream-02.nyc.dailymotion.com/39/dm/3/x4rdeu6/live-3.m3u8</link>
+			<thumbnail></thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]BFM PARIS [/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
@@ -535,6 +544,14 @@
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://secure-streams.akamaized.net/rt-usa/index2500.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]CNN[/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8</link>
                         </item>
 			
 			
