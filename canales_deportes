@@ -368,10 +368,10 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BOETS</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
-                        <link>http://62.210.99.158:80/live?channelId=135&deviceMac=00:1A:79:3C:C9:5C&uid=3303</link>
+                        <link>http://gorod.tv/s/live/509/86.169.51.136/1/0.m3u8</link>
                         </item>
 		
 		
@@ -460,6 +460,14 @@
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
                         <link>http://77.54.248.94:9981/stream/channelid/806400516</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENA (HR)</title>
+                        <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
+                        <thumbnail>http://www.partner.ulango.tv/uploads/channels/3789609/logo_sporttv%205%20pt%20[world%20cup%202018]%7Cturkey.png</thumbnail>
+                        <link>http://gorod.tv/s/live/506/86.169.51.136/1/0.m3u8</link>
                         </item>
 			
 			
