@@ -165,7 +165,15 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 2</title>
                         <fanart></fanart>
                         <thumbnail>https://4.bp.blogspot.com/-lw9Dp58JO5U/V8g-1IkgEEI/AAAAAAAABjY/0jppbkAfSGYRhlJYcNr3WTStOGQpgWiZQCLcB/s640/espn2-en-vivo-gratis-por-internet.png</thumbnail>
-                        <link>http://209.126.116.177:2086/506ESPN2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+                        <link>http://latino-webtv.com:2082/livexd3/100_.m3u8</link>
+                        </item>
+		
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3</title>
+                        <fanart></fanart>
+                        <thumbnail>https://4.bp.blogspot.com/-lw9Dp58JO5U/V8g-1IkgEEI/AAAAAAAABjY/0jppbkAfSGYRhlJYcNr3WTStOGQpgWiZQCLcB/s640/espn2-en-vivo-gratis-por-internet.png</thumbnail>
+                        <link>http://latino-webtv.com:2082/livexd3/111_.m3u8</link>
                         </item>
 		
 
@@ -174,7 +182,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
-                        <link>http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+                        <link>http://latino-webtv.com:2082/livexd3/101_.m3u8</link>
                         </item>
 
 
@@ -182,7 +190,15 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 2</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail></thumbnail>
-                        <link>http://209.126.116.177:2086/503FoxSport2/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
+                        <link>http://latino-webtv.com:2082/livexd3/103_.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 3</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://latino-webtv.com:2082/livexd3/109_.m3u8</link>
                         </item>
 			
 			
