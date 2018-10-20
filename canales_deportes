@@ -62,7 +62,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] LA LIGA TV</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://spainiptv.selfip.info:8000/live/tvbecam18/15258/54462.m3u8</link>
+                        <link>http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/7715.m3u8</link>
                         </item>
 
 
@@ -184,6 +184,14 @@
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
                         <link>http://latino-webtv.com:2082/livexd3/101_.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/15955.m3u8</link>
+                        </item>
 
 
 						<item>
@@ -243,6 +251,14 @@
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
                         <link>http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SOCCER PLUS (BRA)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://sporti.tv:6500/live/fabo6nXpuq/Is3PISvHp7/17956.m3u8</link>
                         </item>
 		
 		
@@ -357,6 +373,14 @@
                         <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
                         <link>http://62.210.99.158:80/live?channelId=135&deviceMac=00:1A:79:3C:C9:5C&uid=3303</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORTSMAX (EN)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
+                        <link>http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8</link>
+                        </item>
 			
 			
 						<item>
@@ -368,26 +392,26 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 1 (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 1 (RU)</title>
                         <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
                         <thumbnail>http://images.atlas.metabroadcast.com/pressassociation.com/channels/p2201308011804.png</thumbnail>
-                        <link>http://185.53.163.205:2700</link>
+                        <link>http://persik.by/stream/176/296165/10266.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 2 (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 2 (RU)</title>
                         <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
                         <thumbnail>https://cdn.firstonetv.eu/images/logos/uk/BTSPORT2.png</thumbnail>
-                        <link>http://185.53.163.205:2506</link>
+                        <link>http://persik.by/stream/176/296165/10267.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 3 (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 3 (RU)</title>
                         <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
                         <thumbnail>https://i.pinimg.com/originals/fd/da/27/fdda27d0e10f6edd4650f4192cb4752a.png</thumbnail>
-                        <link>http://185.53.163.205:2701</link>
+                        <link>http://persik.by/stream/6431/299492/10268.m3u8</link>
                         </item>
 			
 			
@@ -480,10 +504,10 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (EN)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://185.59.220.134:8080/eurosport2/index.m3u8</link>
+                        <link>http://gorod.tv/s/live/502/86.169.51.136/1/0.m3u8</link>
                         </item>                
 			
 			
@@ -592,10 +616,10 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] FLOW SPORTS (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] M1 GLOBAL (EN)</title>
                         <fanart>https://www.broadcastingcable.com/.image/t_share/MTU0MjAzNTEwMDU2NDk0NDQ2/stadium-logo-16x9jpg.jpg</fanart>
                         <thumbnail>https://www.bestappletv.com/wp-content/uploads/2017/10/STADIUM_LOGO-620x350_2-620x350.jpg</thumbnail>
-                        <link>http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8</link>
+                        <link>http://live-m1globaltv.cdnvideo.ru/m1globaltv/m1globaltv-rtmp-eng_720p/chunklist.m3u8?fluxustv.m3u8</link>
                         </item>
 			
 			
