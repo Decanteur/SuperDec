@@ -544,7 +544,7 @@
                         <title>[COLOR white][COLOR blue]FOX NEWS [/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://fnurtmp-f.akamaihd.net/i/FNCPREV_1@143121/index_300_av-b.m3u8</link>
+                        <link>http://api.new.livestream.com/accounts/1859803/events/1648429/live.m3u8</link>
                         </item>
 		
 		
