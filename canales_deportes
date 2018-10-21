@@ -384,10 +384,10 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT ESPN (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MLB NETWORK (US)</title>
                         <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
                         <thumbnail>http://sport-onthebox.com/wp-content/uploads/2013/02/bt-buys-espn.png</thumbnail>
-                        <link>http://31.220.0.196:8081/live/ctvb4/playlist.m3u8</link>
+                        <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8</link>
                         </item>
 			
 			
