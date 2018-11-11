@@ -471,7 +471,7 @@
 		
 						<item>
 			<title>[COLOR white][COLOR blue]• [/COLOR] EURONEWS (EN)</title>
-			<link>https://euronews-en-b-cdn.hexaglobe.net/98e7827493a77c8e848ab29dd636e9c1/5bc1a8f6/euronews/euronews-euronews-website-web-responsive-2/ewnsabrenbkp_eng.smil/ewnsabrenbkp_eng_540p.m3u8</link>
+			<link>http://61.58.60.230:9000/live/129.m3u8</link>
 			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
 			<fanart></fanart>
 			<info></info>
