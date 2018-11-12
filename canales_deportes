@@ -32,7 +32,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR F1 HD</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://proxy-076.dc3.dailymotion.com/sec(6665f4a52b739ac59b69e9e81e9d13d6)/video/911/562/364265119_mp4_h264_aac_hq.m3u8</link>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/72.ts</link>
                         </item>
 
 
@@ -58,9 +58,17 @@
                         <thumbnail></thumbnail>
                         <link>http://aleiptv.mine.nu:8000/aaron/1234/5343</link>
                         </item> 
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN LA LIGA HD Opc. 2</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/128.ts</link>
+                        </item> 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN LA LIGA HD (Op. 2)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN LA LIGA HD (Op. 3)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://xxedge58.livesports.pw/live/verbeinsportae541f9250d4e/index.m3u8</link>
@@ -72,13 +80,45 @@
                         <thumbnail></thumbnail>
                         <link>http://swf.x10.bz/swe/twich.php?canal=pirataloco1&f=.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] LA LIGA TV Opc. 2</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/63.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] LA LIGA 1|2|3 TV</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/97.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR LIGA DE CAMPEONES</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/129.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] #VAMOS</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/130.ts</link>
+                        </item>
 
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] Movistar Moto GP</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&callbackparam=&url=http%3A%2F%2Fportal.geniptv.com%3A8080%2Flive%2Fjulia%2Fjulia%2F1041.ts&swf=None&auth=&simpledownloader=False</link>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/66.ts</link>
                         </item> 
 
 
@@ -126,14 +166,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://xxedge55.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8</link>
-                        </item> 
-
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (Opc. 2)</title>
-                        <fanart></fanart>
-                        <thumbnail></thumbnail>
-                        <link>http://xxedge54.livesports.pw/live/vereurosportsespd6d28a0c0/index.m3u8</link>
+                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/62.ts</link>
                         </item> 
 
 						<item>
@@ -398,6 +431,14 @@
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
                         <link>http://103.194.168.197:8081/live/jtvs4/playlist.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1 (EN)</title>
+                        <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
+                        <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/310.ts</link>
+                        </item>
 			
 			
 						<item>
@@ -405,6 +446,46 @@
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
                         <link>http://gorod.tv/s/live/509/86.169.51.136/1/0.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SUPER SPORT 1 HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
+                        <link>http://163.172.211.229:8000/live/sdsgal/orbit12/48.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SUPER SPORT 2 HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
+                        <link>http://163.172.211.229:8000/live/sdsgal/orbit12/49.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SUPER SPORT 3 HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
+                        <link>http://163.172.211.229:8000/live/sdsgal/orbit12/50.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SUPER SPORT 4 HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
+                        <link>http://163.172.211.229:8000/live/sdsgal/orbit12/51.ts</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SUPER SPORT 5 HD</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
+                        <link>http://163.172.211.229:8000/live/sdsgal/orbit12/52.ts</link>
                         </item>
 		
 		
@@ -465,10 +546,10 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS NEWS (AR)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 1 (US)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>https://i.pinimg.com/736x/53/c5/fd/53c5fdb9a48560eaf89fad665b6f2345.jpg</thumbnail>
-                        <link>http://kaliteliiptv.com:8080/live/sedat35/35sedat/3206.m3u8</link>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/310.ts</link>
                         </item>
 		
 		
@@ -565,13 +646,21 @@
                         <thumbnail>https://i.pinimg.com/originals/4c/12/99/4c12999c2a7b8dacdeaf5fdb71481811.png</thumbnail>
                         <link>http://61.58.60.230:9000/live/102.m3u8?fluxustv.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 2 (POR)</title>
+                        <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
+                        <thumbnail>https://ulango.tv/uploads/channels/32838/logo_sport%20tv%2011.png</thumbnail>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/8.ts</link>
+                        </item>
 			
 			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 3 (POR)</title>
                         <fanart>https://www.atelevisao.com/wp-content/uploads/2016/08/sportv.png</fanart>
                         <thumbnail>https://ulango.tv/uploads/channels/32838/logo_sport%20tv%2011.png</thumbnail>
-                        <link>http://77.54.248.94:9981/stream/channelid/1669467421</link>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/9.ts</link>
                         </item>
 			
 			
@@ -640,10 +729,10 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (EN)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://hlstv.kem.211.ru/239.211.211.115/stream.m3u8</link>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/9.ts</link>
                         </item>  
 		
 		
@@ -659,7 +748,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SK 1 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
-                        <link>http://185.59.220.134:8080/sk1/index.m3u8</link>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/310.ts</link>
                         </item>
 			
 			
@@ -667,7 +756,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SK 2 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://185.59.220.134:8080/sk2/index.m3u8</link>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/88.ts</link>
                         </item>
 		
 		
@@ -675,7 +764,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SK 3 (RU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://185.59.220.134:8080/sk3/index.m3u8</link>
+                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/89.ts</link>
                         </item>
 		
 		
