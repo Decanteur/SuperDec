@@ -139,6 +139,14 @@
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DISNEY CHANNEL</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://cdnapi.kaltura.com/p/1068292/sp/106829200/playManifest/entryId/1_d8lnsqu0/format/applehttp/.m3u8</link>
+                        </item>
 			
 			
 						<item>
@@ -191,10 +199,10 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] TEN</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CAZAVISION</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://kdsajkcasadjsab77676das99saghdshhdds.sitenow.me/live/ten_cpyjq8k/chunklist.m3u8?st=YI8uKtfC5-hZVfyckuNOQg&e=1501677464</link>
+                        <link>https://cdn039.fractalmedia.es/adaptive/caz_es.m3u8</link>
                         </item>
 			
 			
