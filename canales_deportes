@@ -297,6 +297,14 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SOCCER PLUS (BRA)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
@@ -607,14 +615,6 @@
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rai_Sport_-_Logo_2017.svg/1200px-Rai_Sport_-_Logo_2017.svg.png</fanart>
                         <thumbnail>https://www.tv-in-diretta.it/uploads/channels/8558_1712.png</thumbnail>
                         <link>http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8</link>
-                        </item>
-			
-			
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
-                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
-                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
-                        <link>http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8</link>
                         </item>
 			
 			
