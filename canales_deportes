@@ -16,7 +16,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] GOL TV</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://edga14.vergol.pw/live/goltv/index.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5525.m3u8</link>
                         </item>
 
 						<item>
@@ -78,7 +78,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] LA LIGA TV</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://swf.x10.bz/swe/twich.php?canal=pirataloco1&f=.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/10588.m3u8</link>
                         </item>
 		
 		
@@ -166,22 +166,22 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://spainfree.blackeviltv.com:9000/live/blackeviltv/gratis/62.ts</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5524.m3u8</link>
                         </item> 
-
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] TDTV (MEX)</title>
-                        <fanart>http://tododeportestv.com/wp-content/themes/td/images/logo.png</fanart>
-                        <thumbnail>http://webcongress.com/honduras/wp-content/uploads/sites/85/2017/01/todo-deportes.png</thumbnail>
-                        <link>http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u8</link>
-                        </item>
 
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://xxedge51.livesports.pw/live/vereurosportsdosespa0a934/index.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5501.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TDTV (MEX)</title>
+                        <fanart>http://tododeportestv.com/wp-content/themes/td/images/logo.png</fanart>
+                        <thumbnail>http://webcongress.com/honduras/wp-content/uploads/sites/85/2017/01/todo-deportes.png</thumbnail>
+                        <link>http://hondurtmp.tulix.tv:1935/tododeportes/to-do-deportes/playlist.m3u8</link>
                         </item>                 
 
 
@@ -402,10 +402,17 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] PACK 12 NETWORK (US)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT 1 (UK)</title>
                         <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
                         <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
-                        <link>http://p12n-lh.akamaihd.net/i/network_delivery@428818/master.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5915.m3u8</link>
+                        </item>
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORT ESPN (UK)</title>
+                        <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
+                        <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5913.m3u8</link>
                         </item>
 			
 			
@@ -413,7 +420,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Main Event (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://103.194.168.197:8081/live/jtvs1/playlist.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5921.m3u8</link>
                         </item>
 			
 			
@@ -421,7 +428,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Action (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://103.194.168.197:8081/live/jtvs3/playlist.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5920.m3u8</link>
                         </item>
 			
 			
@@ -429,23 +436,23 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Premier League (EN)</title>
                         <fanart>https://creative.dailymail.co.uk/skysportpaper4/img/main.jpg</fanart>
                         <thumbnail>https://sportsnewsireland.com/wp-content/uploads/2017/10/Sky-Sports.jpg</thumbnail>
-                        <link>http://62.210.99.158:80/live?channelId=133&deviceMac=00:1A:79:3C:C9:5C&uid=3303</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5919.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Football (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS MIX (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://vietcago.net/vstv/skysp5.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5925.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS Arena (EN)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS ARENA (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://103.194.168.197:8081/live/jtvs4/playlist.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5917.m3u8</link>
                         </item>
 		
 		
@@ -453,23 +460,23 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1 (EN)</title>
                         <fanart>https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png</fanart>
                         <thumbnail>http://www.folignocity.info/wp-content/uploads/2016/08/Sky-sport.png</thumbnail>
-                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/310.ts</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5922.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BOETS</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1 (IT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
-                        <link>http://gorod.tv/s/live/509/86.169.51.136/1/0.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8535.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] IRC Sport TV (IT)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY MOTOGP (IT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
-                        <link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8529.m3u8</link>
                         </item>
 		
 		
@@ -477,7 +484,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] AUTOMOTO TV (IT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Sky_Sport_F1_-_Logo_2018.svg/2000px-Sky_Sport_F1_-_Logo_2018.svg.png</fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/1013544191056596993/0i48c1OV_400x400.jpg</thumbnail>
-                        <link>http://178.22.187.253:1935/streaming-tv/mp4:myStream3/playlist.m3u8</link>
+                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/8523.m3u8</link>
                         </item>
 		
 		
@@ -557,53 +564,45 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 1 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 1 (EX-YU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>https://tv-net.co/channels-frequencys/wp-content/uploads/2014/10/bein-1.png</thumbnail>
-                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/310.ts</link>
+                        <link>http://ip.avov4.us:8000/live/ahmet54/54ahmet/228.m3u8</link>
                         </item>
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 2 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 2 (EX-YU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/88.ts</link>
+                        <link>http://ip.avov4.us:8000/live/ahmet54/54ahmet/229.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 3 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 3 (EX-YU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://live1.livetvindia.co.in:8000/live/wmsplusxc001/wmsplusxc001/89.ts</link>
+                        <link>http://ip.avov4.us:8000/live/ahmet54/54ahmet/230.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 4 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 4 (EX-YU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://185.59.220.134:8080/sk4/index.m3u8</link>
+                        <link>http://ip.avov4.us:8000/live/ahmet54/54ahmet/4554.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 5 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 5 (EX-YU)</title>
                         <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://185.59.220.134:8080/sk5/index.m3u8</link>
+                        <link>http://ip.avov4.us:8000/live/ahmet54/54ahmet/4555.m3u8</link>
                         </item>
 		
 		
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SK 6 (RU)</title>
-                        <fanart>https://www.better-vpn.com/wp-content/uploads/2017/05/bein_sport_logo.png</fanart>
-                        <thumbnail>http://www.firstonetv.net/images/logos/fr/BEINSPORTS2.png</thumbnail>
-                        <link>http://185.59.220.134:8080/sk6/index.m3u8</link>
-                        </item>
-			
-			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] REDBULL TV (EN)</title>
                         <fanart>https://www.worldrallyblog.com/wp-content/uploads/2017/01/Red-Bull-TV-2.jpg</fanart>
