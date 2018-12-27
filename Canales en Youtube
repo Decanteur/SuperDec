@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+ 
+ 
+      <channel>
+    <name>          <<<<<<<<<CANALES EN YOUTUBE>>>>>>>></name>
+    <thumbnail>http://i.imgur.com/CkvRWfL.jpg</thumbnail>
+    <fanart>http://totmacedonia.cat/wp-content/uploads/2016/10/conciertos-abril-2015-espa%C3%B1a-comprar-entradas-y-venta-entradas-en-ya-se-que-regalar-1.jpg</fanart>
+        <items>
+               
+                        <item><title>[COLOR=yellow]                     <<[/COLOR][COLOR=yellow]CANALES[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link>
+<fanart>http://totmacedonia.cat/wp-content/uploads/2016/10/conciertos-abril-2015-espa%C3%B1a-comprar-entradas-y-venta-entradas-en-ya-se-que-regalar-1.jpg</fanart>
+<thumbnail>http://www.uniacc.cl/wp-content/uploads/2012/10/SITIO-MUSICA.jpg</thumbnail>
+</item>
+         
+    <channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►NOTICIAS[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://www.merchandisingplaza.es/194643/Poster-Iron-Maiden-Poster-Iron-Maiden-Eddies-s.jpg</thumbnail>
+    <fanart>http://www.alternativenation.net/wp-content/uploads/2016/09/maxresdefault.jpg</fanart>
+ 
+ 
+ 
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] TN en vivo</title>
+<link>plugin://plugin.video.youtube/play/?video_id=-1xif50QMr4</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/M/MV5BMjIwNDkzOTYyN15BMl5BanBnXkFtZTcwNDQ0ODQ2Mg@@._V1_.jpg</thumbnail>
+<fanart>https://www.whitakercenter.org/media/files/maxresdefault.png</fanart>
+<info></info>
+</item>
+</items>
+ 
+ 
+ 
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] C5N EN VIVO</title>
+<link>plugin://plugin.video.youtube/play/?video_id=GvJ_CO_V7PE</link>
+<thumbnail>https://www.merchandisingplaza.es/194643/Poster-Iron-Maiden-Poster-Iron-Maiden-Eddies-s.jpg</thumbnail>
+<fanart>http://www.alternativenation.net/wp-content/uploads/2016/09/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Sky News</title>
+<link>plugin://plugin.video.youtube/play/?video_id=XOacA3RYrXk</link>
+<thumbnail>https://www.merchandisingplaza.es/194643/Poster-Iron-Maiden-Poster-Iron-Maiden-Eddies-s.jpg</thumbnail>
+<fanart>http://www.alternativenation.net/wp-content/uploads/2016/09/maxresdefault.jpg</fanart>
+<info></info>
+</item>
+</items>
+
+
+<channel>
+    <name>[COLOR orange]•[/COLOR][COLOR aqua]►Otras Cosas[/COLOR]</name>
+    <info></info>
+    <thumbnail>https://www.merchandisingplaza.es/194643/Poster-Iron-Maiden-Poster-Iron-Maiden-Eddies-s.jpg</thumbnail>
+    <fanart>http://www.alternativenation.net/wp-content/uploads/2016/09/maxresdefault.jpg</fanart>
+
+
+<item><title>[COLOR=yellow]                     <<[/COLOR][COLOR=yellow]*************[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link>
+<fanart>http://totmacedonia.cat/wp-content/uploads/2016/10/conciertos-abril-2015-espa%C3%B1a-comprar-entradas-y-venta-entradas-en-ya-se-que-regalar-1.jpg</fanart>
+<thumbnail>http://www.uniacc.cl/wp-content/uploads/2012/10/SITIO-MUSICA.jpg</thumbnail>
+</item>
+
+
+
+<items>
+ 
+<item>
+<title>[COLOR white][COLOR blue]• [/COLOR] Mr. Bean</title>
+<link>plugin://plugin.video.youtube/play/?video_id=ZArU7jiklZk</link>
+<thumbnail>http://www.mixnews.lv/uploads/media/image/2010/01/05/roenAtkinson_medium.png</thumbnail>
+<fanart>https://estaticos.elperiodico.com/resources/jpg/7/5/1511460392357.jpg</fanart>
+<info></info>
+</item>
+</items>
