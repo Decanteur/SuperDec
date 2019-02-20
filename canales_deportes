@@ -360,14 +360,14 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 1 (PT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/1280px-ESPN_wordmark.svg.png</fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/856564125455065089/MAJ4Buek_400x400.jpg</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4047.m3u8</link>
+                        <link>http://163.172.131.72:80/hls/sporttv1.m3u8</link>
                         </item>
 			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 2 (PT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png</fanart>
                         <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3985.m3u8</link>
+                        <link>http://163.172.131.72:80/hls/sporttv2.m3u8</link>
                         </item>
 			
 			
@@ -375,7 +375,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 3 (PT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png</fanart>
                         <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
-                        <link>http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8</link>
+                        <link>http://163.172.131.72:80/hls/sporttv3.m3u8</link>
                         </item>
 
 
@@ -383,7 +383,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 4 (PT)</title>
                         <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
                         <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3986.m3u8</link>
+                        <link>http://163.172.131.72:80/hls/sporttv4.m3u8</link>
                         </item>
 		
 		
@@ -391,7 +391,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 5 (PT)</title>
                         <fanart>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/FOX-SPORTS-RACING_LOGO.jpg</fanart>
                         <thumbnail>https://sportscar365.com/wp-content/uploads/2015/02/foxsportsracing.jpg</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/3987.m3u8</link>
+                        <link>http://163.172.131.72:80/hls/sporttv5.m3u8</link>
                         </item>
 		
 		
