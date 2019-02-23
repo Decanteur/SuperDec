@@ -331,6 +331,30 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORTMAX</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://161.0.157.5/PLTV/88888888/224/3221226766/03.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://ott-cdn.ucom.am/s81/04.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS +</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://ott-cdn.ucom.am/s82/04.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] CANAL+ SPORTS (FR)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
@@ -367,7 +391,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SPORT TV 2 (PT)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Espn2.svg/1280px-Espn2.svg.png</fanart>
                         <thumbnail>https://zpapi.zetatv.com.uy/media/images/espn2-s.png</thumbnail>
-                        <link>http://163.172.131.72:80/hls/sporttv2.m3u8</link>
+                        <link>https://185-125-230-172.livesports24.online/portugalsport2.m3u8</link>
                         </item>
 			
 			
@@ -491,7 +515,7 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] MLB NETWORK (US)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SUPERSPORTS 1</title>
                         <fanart>https://cdn.vox-cdn.com/thumbor/DGQnyplSmI-FdTXlRh7sbYFh_i8=/0x3:800x536/1200x800/filters:focal(0x3:800x536)/cdn.vox-cdn.com/uploads/chorus_image/image/11465357/bt_sport.0.jpg</fanart>
                         <thumbnail>http://sport-onthebox.com/wp-content/uploads/2013/02/bt-buys-espn.png</thumbnail>
                         <link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8?JoCaRoIPTV.m3u8</link>
@@ -537,9 +561,7 @@
                         <link>http://209.126.116.177:2086/502FoxSport1/android/chunk_Auth=ix08xZ^@6Qg7xc=1/playlist.m3u8</link>
                         </item>
 			
-			
-						
-			
+					
 			
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (EN)</title>
@@ -602,6 +624,14 @@
                         <fanart>https://www.worldrallyblog.com/wp-content/uploads/2017/01/Red-Bull-TV-2.jpg</fanart>
                         <thumbnail>http://compass.xboxlive.com/assets/ac/f2/acf282bf-ce02-4bd1-8699-7d052c0e6bb6.png?n=redbull-tv-logo-s.png</thumbnail>
                         <link>http://iptv.matthuisman.nz/nz/tv.redbull.tv.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] REDBULL TV (US)</title>
+                        <fanart>https://www.worldrallyblog.com/wp-content/uploads/2017/01/Red-Bull-TV-2.jpg</fanart>
+                        <thumbnail>http://compass.xboxlive.com/assets/ac/f2/acf282bf-ce02-4bd1-8699-7d052c0e6bb6.png?n=redbull-tv-logo-s.png</thumbnail>
+                        <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8</link>
                         </item>
 		
 		
