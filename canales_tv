@@ -64,7 +64,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Nova</title>
                         <fanart></fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR.jpg</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5530.m3u8</link>
+                        <link>http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8</link>
                         </item>
 
 
@@ -97,7 +97,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Cuatro</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4371.m3u8</link>
+                        <link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -105,7 +105,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Telecinco HD</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/4358.m3u8</link>
+                        <link>https://livehlsdai-i.akamaihd.net/hls/live/571640/telecinco/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -161,7 +161,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] DMAX</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://a3live-lh.akamaihd.net/i/antena3_1@35248/index_2_av-b.m3u8?sd=10&rebase=on</link>
+                        <link>http://91.126.141.12:1935/live/discoverymax/playlist.m3u8</link>
                         </item>
 		
 		
@@ -169,7 +169,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] PARAMOUNT NETWORK</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/14956.m3u8</link>
+                        <link>http://paramount.live.flumotion.com/live/playlist.m3u8</link>
                         </item>
 
 						
@@ -210,7 +210,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Canal Extremadura SAT</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8</link>
+                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000_DVR.m3u8</link>
                         </item>
 			
 			
@@ -478,7 +478,7 @@
                         <title>[COLOR white][COLOR blue]• COSMO[/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/15005.m3u8</link>
+                        <link>http://91.126.141.201:1935/live/smil:cosmoHD.smil/playlist.m3u8</link>
                         </item>
 		
 		
