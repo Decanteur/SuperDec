@@ -279,12 +279,19 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANARIAS SAT</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://streaming2.mad.idec.net/rtvcnet/rtvcnet.drb.smil/chunklist_w117839380_b480000_sles.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] Miami TV en español</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
                         <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
                         </item>
-
 				
 				
 						<item>
@@ -693,10 +700,10 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] TELESAFOR</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MUSIC CHOICE</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://video.telesafor.com/hls/video_high.m3u8</link>
+                        <link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
                         </item>
 
 
