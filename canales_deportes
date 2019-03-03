@@ -32,7 +32,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR F1 HD</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/14985.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/1825.m3u8</link>
                         </item>
 
 
@@ -48,7 +48,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT Ñ</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://aleiptv.mine.nu:8000/aaron/1234/530</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/1841.m3u8</link>
                         </item>
 
 
@@ -120,7 +120,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Movistar Deportes 1</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/14967.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/1823.m3u8</link>
                         </item>
 
 
@@ -180,26 +180,10 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN DEPORTES</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://72.76.39.230:8000/play/a00i/index.m3u8</link>
-                        </item>
-		
-		
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN +</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL516/PROFILE05.m3u8</link>
-                        </item>
-		
-		
-						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL558/PROFILE05.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/2034.m3u8</link>
                         </item>
 
 
@@ -208,7 +192,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 2</title>
                         <fanart></fanart>
                         <thumbnail>https://4.bp.blogspot.com/-lw9Dp58JO5U/V8g-1IkgEEI/AAAAAAAABjY/0jppbkAfSGYRhlJYcNr3WTStOGQpgWiZQCLcB/s640/espn2-en-vivo-gratis-por-internet.png</thumbnail>
-                        <link>http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL561/PROFILE05.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/2033.m3u8</link>
                         </item>
 		
 		
@@ -216,16 +200,25 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3</title>
                         <fanart></fanart>
                         <thumbnail>https://4.bp.blogspot.com/-lw9Dp58JO5U/V8g-1IkgEEI/AAAAAAAABjY/0jppbkAfSGYRhlJYcNr3WTStOGQpgWiZQCLcB/s640/espn2-en-vivo-gratis-por-internet.png</thumbnail>
-                        <link>http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL520/PROFILE05.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/2032.m3u8</link>
                         </item>
 		
 
 
-						<item>
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN +</title>
+                        <fanart></fanart>
+                        <thumbnail>https://4.bp.blogspot.com/-lw9Dp58JO5U/V8g-1IkgEEI/AAAAAAAABjY/0jppbkAfSGYRhlJYcNr3WTStOGQpgWiZQCLcB/s640/espn2-en-vivo-gratis-por-internet.png</thumbnail>
+                        <link>http://micine.club:25461/live/emart20/emart20/2031.m3u8</link>
+                        </item>
+		
+
+
+									<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
-                        <link>http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL522/PROFILE05.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/2015.m3u8</link>
                         </item>
 
 
@@ -233,7 +226,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 2</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail></thumbnail>
-                        <link>http://sl.cdn.iutpcdn.com/LIVE/H01/CANAL527/PROFILE05.m3u8</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/2014.m3u8</link>
                         </item>
 		
 		
@@ -241,7 +234,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 3</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail></thumbnail>
-                        <link>http://aleiptv.mine.nu:8000/aaron/1234/5699</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/2013.m3u8</link>
                         </item>
 			
 			
@@ -249,16 +242,40 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DirecTV_Sports_Latin_America_-_2018_logo.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo.svg.png</fanart>
                         <thumbnailhttps://1.bp.blogspot.com/-Mn0Pp25ocps/WQkQMNG3-rI/AAAAAAAAAXk/TkFP0v2XjmkVLf5-W0uqGjvq4HGLedRMgCLcB/s1600/directvsports.png></thumbnail>
-                        <link>http://aleiptv.mine.nu:8000/aaron/1234/11778</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/1844.m3u8</link>
                         </item>
 		
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT 2</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DirecTV_Sports_Latin_America_-_2018_logo.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo.svg.png</fanart>
+                        <thumbnailhttps://1.bp.blogspot.com/-Mn0Pp25ocps/WQkQMNG3-rI/AAAAAAAAAXk/TkFP0v2XjmkVLf5-W0uqGjvq4HGLedRMgCLcB/s1600/directvsports.png></thumbnail>
+                        <link>http://micine.club:25461/live/emart20/emart20/1843.m3u8</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT +</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DirecTV_Sports_Latin_America_-_2018_logo.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo.svg.png</fanart>
                         <thumbnailhttps://1.bp.blogspot.com/-Mn0Pp25ocps/WQkQMNG3-rI/AAAAAAAAAXk/TkFP0v2XjmkVLf5-W0uqGjvq4HGLedRMgCLcB/s1600/directvsports.png></thumbnail>
-                        <link>http://aleiptv.mine.nu:8000/aaron/1234/11779</link>
+                        <link>http://micine.club:25461/live/emart20/emart20/1842.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TYC SPORTS</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DirecTV_Sports_Latin_America_-_2018_logo.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo.svg.png</fanart>
+                        <thumbnailhttps://1.bp.blogspot.com/-Mn0Pp25ocps/WQkQMNG3-rI/AAAAAAAAAXk/TkFP0v2XjmkVLf5-W0uqGjvq4HGLedRMgCLcB/s1600/directvsports.png></thumbnail>
+                        <link>http://micine.club:25461/live/emart20/emart20/1911.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] UNIVISION DEPORTES</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/DirecTV_Sports_Latin_America_-_2018_logo.svg/1200px-DirecTV_Sports_Latin_America_-_2018_logo.svg.png</fanart>
+                        <thumbnailhttps://1.bp.blogspot.com/-Mn0Pp25ocps/WQkQMNG3-rI/AAAAAAAAAXk/TkFP0v2XjmkVLf5-W0uqGjvq4HGLedRMgCLcB/s1600/directvsports.png></thumbnail>
+                        <link>http://micine.club:25461/live/emart20/emart20/1846.m3u8</link>
                         </item>
 			
 			
@@ -323,6 +340,22 @@
 			
 			
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NBA TV (US)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://micine.club:25461/live/emart20/emart20/1908.m3u8</link>
+                        </item>
+			
+			
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NFL NETWORK (US)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://micine.club:25461/live/emart20/emart20/1909.m3u8</link>
+                        </item>
+			
+			
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] BFM SPORT (FR)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
@@ -358,6 +391,22 @@
                         <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
                         <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
                         <link>http://ott-cdn.ucom.am/s82/04.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOVA SPORTS (GRE)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://se02.se.cdn-05.srv.markiza.sk/hls/hls/novasport-w-3.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NOVA SPORTS 2 (GRE)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/en/thumb/3/3a/Fox_Sports_Logo.svg/1200px-Fox_Sports_Logo.svg.png</fanart>
+                        <thumbnail>https://sportsradiopd.com/wp-content/uploads/2014/07/foxsports-e1504217651750.png</thumbnail>
+                        <link>http://se02.se.cdn-05.srv.markiza.sk/hls/hls/novasport2-w-3.m3u8</link>
                         </item>
 		
 		
