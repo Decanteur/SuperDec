@@ -603,7 +603,7 @@
 
 						<item>
 			<title>[COLOR white][COLOR blue]• [/COLOR] RT en Español</title>
-			<link>https://secure-streams.akamaized.net/rt-esp/index.m3u8?xtreamiptv.m3u8</link>
+			<link>https://rt-esp.secure.footprint.net/1102.m3u8</link>
 			<thumbnail>https://lh3.googleusercontent.com/-z391X3IQmhI/VrJFiEZp59I/AAAAAAAADi0/J21wswxa3_o/h250/RT%2BEspa%25C3%25B1ol.png</thumbnail>
 			<fanart>https://actualidad.rt.com/static/img/og-logo-rt.jpg</fanart>
 			<info>RT en español ofrece una alternativa real en el mundo de la información. Las noticias de actualidad de las que no hablan los principales canales internacionales adquieren importancia mundial en RT en español. </info>
@@ -611,7 +611,7 @@
 
 						<item>
 			<title>[COLOR white][COLOR blue]• [/COLOR] CNN en Español</title>
-			<link>plugin://plugin.video.youtube/play/?video_id=RFy2yclbnyc</link>
+			<link>http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8</link>
 			<thumbnail>https://1.bp.blogspot.com/-fWKxj6gUHuU/WIEJN3vZYWI/AAAAAAAAc7A/f5ZuTEQN9QE57A2seN33OZ16RzoeR3j7wCLcB/s1600/noticias-cnn-en-espanol.png</thumbnail>
 			<fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/CNN_en_Espa%C3%B1ol.svg/1200px-CNN_en_Espa%C3%B1ol.svg.png</fanart>
 			<info>CNN en Español es un canal de televisión por suscripción de noticias operado por Time Warner y dirigido a Latinoamérica-Caribe y al público hablante del español en Estados Unidos.</info>
