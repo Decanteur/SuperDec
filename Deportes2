@@ -13,15 +13,26 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR LIGA DE CAMPEONES</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR LIGA DE CAMPEONES (SP)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://111.90.151.57:8080/live/marco/polo/116049.m3u8</link>
                         </item>
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORT</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORT (RU)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://185-125-230-172.livesports24.online/rusetantaeurasia.m3u8</link>
                         </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] IRC SPORT (IT)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
+                        </item>
+		
+		
+						
