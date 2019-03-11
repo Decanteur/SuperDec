@@ -2,17 +2,14 @@
  
  
 <channel>
-    <name>          <<<<<<<<<Canales de deportes>>>>>>>></name>
+    <name>          <<<<<<<<<Canales de deportes 2>>>>>>>></name>
     <thumbnail>http://www.novomusica.com/7334-thickbox_default/altavoz-bluetooth-audiopro-addon-t10.jpg</thumbnail>
     <fanart>http://www.novomusica.com/7334-thickbox_default/altavoz-bluetooth-audiopro-addon-t10.jpg</fanart>
         <items>
 
 
                
-                        <item><title>[COLOR=yellow]        <<[/COLOR][COLOR=yellow] Canales de Deportes en español[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
-
-
-						<item>
+                       				<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR LIGA DE CAMPEONES (SP)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
