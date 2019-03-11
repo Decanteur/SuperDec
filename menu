@@ -72,11 +72,11 @@
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Peliculas[/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] DAZN[/COLOR]</name>
   <thumbnail>https://www.murhotels.com/images/blog/peliculas.jpg</thumbnail>
 <fanart>http://www.peliculaxd.com/wp-content/uploads/2017/09/Peliculas.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/peliculas</externallink>
+   <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/DAZN</externallink>
 </channel>
   </channels>
   
