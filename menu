@@ -72,6 +72,18 @@
 <channels>
  
 <channel>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] Canales TV 2[/COLOR]</name>
+  <thumbnail>http://4.bp.blogspot.com/-8Dk8UqlNSNw/VpOq8TT0mvI/AAAAAAAAE-c/yToqP8NVK5Q/s1600/canales.png</thumbnail>
+<fanart>https://i.ytimg.com/vi/pKJJuQb0uUw/maxresdefault.jpg</fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Decanteur/SuperDec/master/Canales_TV2</externallink>
+</channel>
+  </channels>
+ 
+ 
+<channels>
+ 
+<channel>
       <name>[COLOR cyan][COLOR  lime]•  [/COLOR] DAZN[/COLOR]</name>
   <thumbnail>https://www.murhotels.com/images/blog/peliculas.jpg</thumbnail>
 <fanart>http://www.peliculaxd.com/wp-content/uploads/2017/09/Peliculas.jpg</fanart>
