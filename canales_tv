@@ -1025,6 +1025,23 @@
                         <thumbnail></thumbnail> 
                         <link>http://161.0.157.51/PLTV/88888888/224/3221227040/03.m3u8</link>
                         </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]COOKING CHANNEL [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail> 
+                        <link>http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]MIAMI TV [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8</link>
+                        </item>
+			
+			
+						
 			
 			
 <item><title>[COLOR=yellow]              <<[/COLOR][COLOR=yellow] Francia[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
