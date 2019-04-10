@@ -254,10 +254,18 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT BOX (PT)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://landiptv.live:8080/live/iRCcIIWu4M/MzHdwFdqzD/101057.m3u8</link>
+                        <link>http://80.80.160.168/live/6/2500000/live.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT BOX</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://92.43.140.249/s86/04.m3u8</link>
                         </item>
 		
 		
@@ -309,10 +317,10 @@
                         </item>
 		
 		<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS FOOTBALL</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 1 TK HD</title>
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
-                        <link>https://skystreaming.io/pls/4u6ry6t3/38/383/hd</link>
+                        <link>http://185-125-230-172.livesports24.online/bsporttur1.m3u8</link>
                         </item>
 		
 		<item>
@@ -481,21 +489,35 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 1 (RU)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://persik.by/stream/0713/382544/10266.m3u8</link>
+                        <link>https://185-8-178-139.livesports24.online/ntvmatchfoot1.m3u8</link>
                         </item>
 		
 		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 2 (RU)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://persik.by/stream/0713/382544/10267.m3u8</link>
+                        <link>http://185-8-178-140.livesports24.online/mfootball2rus.m3u8</link>
                         </item>
 		
 		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 3 (RU)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://persik.by/stream/0713/382544/10268.m3u8</link>
+                        <link>http://185-8-178-140.livesports24.online/rumatchf3.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 1 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://185-8-178-140.livesports24.online/uafootballua1.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 2 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://185-8-178-140.livesports24.online/fooootball2.m3u8</link>
                         </item>
 		
 		<item>
@@ -524,6 +546,13 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://185-125-230-172.livesports24.online/ruseurosport2.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT 1 (LT)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://88.216.48.14:80/sport1/live.m3u8</link>
                         </item>
 
 						
