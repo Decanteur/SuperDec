@@ -40,7 +40,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] 24H</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://rtvev4-live.hss.adaptive.level3.net/egress/ahandler/rtvegl0/irtve01_lv3_aosv4_gl0/irtve01_lv3_aosv4_gl0.isml/irtve01_lv3_aosv4_gl0-audio=128000-video=400000.m3u8</link>
+                        <link>http://hlsliveamdgl8-lh.akamaihd.net/i/hlsdvrlive_1@583030/master.m3u8</link>
                         </item>
                     
 			
@@ -48,7 +48,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Antena 3</title>
                         <fanart></fanart>
                         <thumbnail>http://www.diesl.com/wp-content/uploads/2012/04/logo-antena-3.jpg</thumbnail>
-                        <link>http://micine.club:25461/live/emart20/emart20/2079.m3u8</link>
+                        <link>https://livestartover.atresmedia.com/antena3/master.m3u8</link>
                         </item>
 
 
@@ -56,7 +56,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Neox</title>
                         <fanart></fanart>
                         <thumbnail>http://www.brandemia.org/wp-content/uploads/2011/07/neox_principal_logo.jpg</thumbnail>
-                        <link>https://pull2b-i.akamaized.net/geoneox/master.m3u8</link>
+                        <link>https://livestartover.atresmedia.com/geoneox/master.m3u8</link>
                         </item>
 
 
@@ -64,7 +64,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Nova</title>
                         <fanart></fanart>
                         <thumbnail>https://pbs.twimg.com/profile_images/877457665852674048/kcgTuYrR.jpg</thumbnail>
-                        <link>http://91.126.138.140:1935/live/nova-Stream/playlist.m3u8</link>
+                        <link>https://livestartover.atresmedia.com/geonova/master.m3u8</link>
                         </item>
 
 
@@ -72,7 +72,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] A3Series</title>
                         <fanart></fanart>
                         <thumbnail>https://imediagala.files.wordpress.com/2015/12/a3series.jpg</thumbnail>
-                        <link>https://a3series-pull2a-a3player.secure.footprint.net/a3series/bitrate_3.m3u8</link>
+                        <link>https://livestartover.atresmedia.com/geoa3series/master.m3u8</link>
                         </item>
 		
 		
@@ -80,7 +80,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Mega</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/19757.m3u8</link>
+                        <link>https://livestartover.atresmedia.com/geomega/master.m3u8</link>
                         </item>
 
 
@@ -88,7 +88,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] La Sexta</title>
                         <fanart></fanart>
                         <thumbnail>http://www.brandemia.org/sites/default/files/sites/default/files/la_sexta_logo-antes.jpg</thumbnail>
-                        <link>https://pull2c-i.akamaized.net/lasexta/master.m3u8</link>
+                        <link>https://livestartover.atresmedia.com/lasexta/master.m3u8</link>
                         </item>
 
 
@@ -97,7 +97,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Cuatro</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_4.m3u8</link>
+                        <link>https://livehlsdai-i.akamaihd.net/hls/live/571643/cuatro/bitrate_2.m3u8</link>
                         </item>
 
 
@@ -113,7 +113,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Energy</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8?xtreamiptv.m3u8</link>
+                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623617/energy/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -145,7 +145,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Be Mad TV</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8?xtreamiptv.m3u8</link>
+                        <link>https://mdslivehlsb-i.akamaihd.net/hls/live/623615/bemad/bitrate_4.m3u8</link>
                         </item>
 
 
@@ -175,10 +175,18 @@
 						
 			
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DKISS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://kissfm-cires21-video.secure.footprint.net/dkiss/master.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] 13TV</title>
                         <fanart></fanart>
                         <thumbnail>http://3.bp.blogspot.com/-Uy9CGoCxJ1c/UHyQi93hVaI/AAAAAAAAOTU/q55agaqIXow/s1600/13TV+logo+2011.png</thumbnail>
-                        <link>http://streaming.enetres.net:1935/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/stream.m3u8</link>
+                        <link>http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/live.smil/master.m3u8</link>
                         </item>
 		
 		
@@ -187,6 +195,14 @@
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://178.132.6.97/uzivo/lifetvesp976/tracks-v1a1/mono.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MTMAD 24h</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-p.m3u8</link>
                         </item>
 
 
@@ -226,7 +242,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] Canal Sur</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/15008.m3u8</link>
+                        <link>http://canalsur-pair302-live.hls.adaptive.level3.net/egress/bhandler/sandetel/rtva/master.m3u8</link>
                         </item>
 		
 		
@@ -299,6 +315,14 @@
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>https://5940924978228.streamlock.net/Directo2/Directo2/master.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL MÁLAGA</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://canalmalaga-tv-live.flumotion.com/playlist.m3u8</link>
                         </item>
 		
 		
