@@ -11,68 +11,60 @@
                
                        				<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT Ñ</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
                         <link>http://stream.tvpor-internet.net/manifest_c/bein-n-sports.m3u8</link>
                         </item>
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (SP)</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
+                        <thumbnail>https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg</thumbnail>
                         <link>http://tv.watchstream.info:8080/bisserot@hotmail.es/24Xcc4Ku5s/12971</link>
                         </item>
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (SP)</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
+                        <thumbnail>https://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png</thumbnail>
                         <link>http://tv.watchstream.info:8080/bisserot@hotmail.es/24Xcc4Ku5s/12998</link>
                         </item>
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT +</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>https://pbs.twimg.com/profile_images/969313918727409665/mRvrSacI_400x400.jpg</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsportsplus.m3u8</link>
                         </item>
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT 1</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsports.m3u8</link>
                         </item>
 		
 		
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT opc. 2</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsports1.m3u8</link>
                         </item>
 		
 		
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] DIRECTV SPORT opc. 3</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/directvsportsplus.m3u8</link>
                         </item>
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] TYC SPORTS (ARG)</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://31.220.1.190:8080/WuYC3qhd9/65udrOt48Y/198583</link>
-                        </item>
-		
-		
-						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] TDN</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <fanart>https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/04/tdn-logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/tdn.m3u8</link>
                         </item>
 		
