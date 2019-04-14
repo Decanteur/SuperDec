@@ -24,10 +24,24 @@
                         </item>
 
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (IT)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
+                        <thumbnail>https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/13.m3u8</link>
+                        </item>
+
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (SP)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
                         <thumbnail>https://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png</thumbnail>
                         <link>http://tv.watchstream.info:8080/bisserot@hotmail.es/24Xcc4Ku5s/12998</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (IT)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
+                        <thumbnail>https://www.eurocupbasketball.com/rs/29753/7dd1e5a9-6d1e-44ba-805c-0858188b732f/9bc/filename/eurosport-2.png</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/14.m3u8</link>
                         </item>
 
 						<item>
@@ -66,6 +80,14 @@
                         <fanart>https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/04/tdn-logo.jpg</fanart>
                         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/tdn.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] GARAJE TV</title>
+                        <fanart>https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/04/tdn-logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
+                        <link>http://186.0.233.76:1935/Garage/garage.smil/chunklist_w846352619_b446000_sleng.m3u8</link>
                         </item>
 		
 		
@@ -110,10 +132,58 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT 1 (IT)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://80.80.160.168/live/6/2500000/live.m3u8</link>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/1449.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT MOTOGP (IT)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/5.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT F1 (IT)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/6.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT FOOTBALL (IT)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/1455.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT NBA (IT)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/4.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT ARENA (IT)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/1454.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] RED BULL TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link>
                         </item>
 		
 		
