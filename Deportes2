@@ -143,7 +143,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT MOTOGP (IT)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/5.m3u8</link>
+                        <link>https://1.ip2stream.icu/live/sky_sport_motogp_hd/chunks.m3u8</link>
                         </item>
 		
 		
@@ -151,7 +151,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT F1 (IT)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/6.m3u8</link>
+                        <link>https://1.ip2stream.icu/live/sky_sport_f1_hd/chunks.m3u8</link>
                         </item>
 		
 		
@@ -159,7 +159,15 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT FOOTBALL (IT)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/1455.m3u8</link>
+                        <link>hhttps://1.ip2stream.icu/live/sky_sport_football_hd/chunks.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT FOOTBALL (IT) opc.2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://1.ip2stream.icu/live/sky_sport_uno_hd/chunks.m3u8</link>
                         </item>
 		
 		
@@ -175,7 +183,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORT ARENA (IT)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://cdnlive1.win:80/live/KSSRyyPYnL/6eOLw56ut/1454.m3u8</link>
+                        <link>https://1.ip2stream.icu/live/sky_sport_arena_hd/chunks.m3u8</link>
                         </item>
 		
 		
@@ -203,10 +211,31 @@
                         </item>
 		
 		<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 1 TK HD</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN (US)</title>
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
-                        <link>http://185-125-230-172.livesports24.online/bsporttur1.m3u8</link>
+                        <link>http://80.80.160.168/live/6/2500000/live.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 2 (US)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Orange Sport</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Extreme Sport</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://91.90.253.66:8080/CH730_std/tracks-v1a1/index.m3u8</link>
                         </item>
 		
 		<item>
@@ -295,6 +324,20 @@
                         </item>
 		
 		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH ARENA (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://185-8-178-139.livesports24.online/rumatcharena.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH PREMIER (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://185-8-178-138.livesports24.online/mpremierrus.m3u8</link>
+                        </item>
+		
+		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 1 (UKR)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -323,6 +366,20 @@
                         </item>
 		
 		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 1 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://185-8-178-138.livesports24.online/uafootballua1.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 2 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://185-8-178-139.livesports24.online/fooootball2.m3u8</link>
+                        </item>
+		
+		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (RU)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -330,10 +387,24 @@
                         </item>
 		
 		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (RU) opc.2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://88.150.248.21:7337/tvarm.ruindex.m3u8?seg-user-zona-iptv-ru-v1-a1.m3u8</link>
+                        </item>
+		
+		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (RU)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://185-125-230-172.livesports24.online/ruseurosport2.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2 (RU) opc.2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://91.231.219.145:80/tv_eurosport_2_HD/playlist.m3u8</link>
                         </item>
 		
 		<item>
@@ -348,6 +419,13 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>https://hls.telekabel.com.mk:1936/live/151/2500-def.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Viasat Sport</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8</link>
                         </item>
 		
 		
