@@ -263,6 +263,14 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TeleMadrid opc. 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/index.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] La Otra</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
@@ -323,6 +331,22 @@
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://canalmalaga-tv-live.flumotion.com/playlist.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] PTV MÁLAGA</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://149.91.98.146:1935/live/stream/playlist.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TPA 7 (Asturias)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://cdnlive.shooowit.net/rtpalive/directo.smil/.m3u8</link>
                         </item>
 		
 		
@@ -709,15 +733,15 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Heart TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Hit TV</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_398_av-p.m3u8</link>
+                        <link>http://kissfm-cires21-video.secure.footprint.net/hittv/master.m3u8</link>
                         </item>
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] Hit TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] Hit TV opc. 2</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
                         <link>http://kissfm-cires21-video.secure.footprint.net/hittv/bitrate_1.m3u8</link>
