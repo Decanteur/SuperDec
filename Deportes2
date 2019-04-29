@@ -76,6 +76,38 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/1853.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/2327.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/2236.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 3</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/2237.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] TDN</title>
                         <fanart>https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/04/tdn-logo.jpg</fanart>
                         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
@@ -200,6 +232,14 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://92.43.140.249/s86/04.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] UFC FIGHT</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/1727.m3u8</link>
                         </item>
 		
 		
