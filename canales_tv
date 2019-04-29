@@ -207,10 +207,34 @@
 
 
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] DISTRITO TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>https://cdn01.yowi.tv/KQRSDA7GDB/live-1000.m3u8</link>
+                        </item>
+
+
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] PRIDE CHANNEL</title>
                         <fanart></fanart>
                         <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
                         <link>http://178.132.6.97/PrideTV1/tracks-v1a1/mono.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIBWI LIVE</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://178.132.6.97/fibwiLIVE1/playlist.m3u8</link>
+                        </item>
+
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] RED SPAIN TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://fotografias.mega.atresmedia.com/clipping/cmsimages01/2015/09/21/0BFD5A9E-1A5D-4A07-8401-EB2B2A0300F8/58.jpg</thumbnail>
+                        <link>http://178.132.6.97/RedTVSpain1/tracks-v1a1/index.m3u8</link>
                         </item>
 
 
