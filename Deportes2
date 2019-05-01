@@ -17,6 +17,13 @@
                         </item>
 
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT LA LIGA</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://stream.tvpor-internet.net/manifest/04/bein-sports-la-liga.m3u8</link>
+                        </item>
+
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (SP)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
                         <thumbnail>https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg</thumbnail>
@@ -95,7 +102,15 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/2236.m3u8</link>
+                        <link>http://flow.nibbletv.info/CH/VRi5JT2hSww6/Fox-Sports.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 2</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://flow.nibbletv.info/CH/VRi5JT2hSww6/Fox-Sports-2.m3u8</link>
                         </item>
 		
 		
@@ -385,10 +400,24 @@
                         </item>
 		
 		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 1 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/222/index.m3u8</link>
+                        </item>
+		
+		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 2 (UKR)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://185-8-178-140.livesports24.online/fooootball2.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH FOOTBALL 3 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/522/index.m3u8</link>
                         </item>
 		
 		<item>
@@ -417,6 +446,20 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>https://185-8-178-139.livesports24.online/fooootball2.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 2 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/211/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 3 (UKR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/522/index.m3u8</link>
                         </item>
 		
 		<item>
