@@ -2,16 +2,13 @@
 
 #EXTINF:-1,futbol 3
 http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/522/index.m3u8
-#EXTINF:-1,Viasat Sport
-http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/160/index.m3u8
-#EXTINF:-1,Viasat Sport HD
-http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/208/index.m3u8
+
+
 #EXTINF:-1,Futbol 1
 http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/222/index.m3u8
 #EXTINF:-1,Futbol 2
 http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/211/index.m3u8
-#EXTINF:-1,Futbol 3
-http://2a1a6f9r.ottclub.mobi/iptv/CX45HWQ9FFGNSS/206/index.m3u8
+
 
 ESPN 2,http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
 Fight Time,http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
@@ -20,7 +17,7 @@ Fox Sports Racing,http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8
 MLB Network,http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_mobile.m3u8?xtreamiptv.m3u8
 Red Bull TV,https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 Todo Deportes tv,http://rtmp.zafra.cloud:1935/securelive/tdcampeones20161/playlist.m3u8
-http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+
 
 
 
