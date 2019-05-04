@@ -24,6 +24,13 @@
                         </item>
 
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR LIGA DE CAMPEONES</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://flow.nibbletv.info/CH/VRi5JT2hSww6/Movistar-Futbol.m3u8</link>
+                        </item>
+
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1 (SP)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eurosport.svg/1280px-Eurosport.svg.png</fanart>
                         <thumbnail>https://www.lawebdeltenis.net/wp-content/uploads/2015/08/eurosport_logo.jpg</thumbnail>
@@ -241,6 +248,13 @@
                         <link>https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8</link>
                         </item>
 		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT2U </title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
+                        </item>
+		
 		
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
@@ -255,6 +269,20 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://92.43.140.249/s86/04.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT SPORTS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT SPORTS opc.2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
                         </item>
 		
 		
@@ -316,13 +344,6 @@
                         </item>
 		
 		<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT SPORT</title>
-                        <fanart></fanart>
-                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://210.210.155.35/session/ff569f46-2f90-11e9-b351-b82a72d63267/uq2663/h/h05/index.m3u8</link>
-                        </item>
-		
-		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ARENA SPORT 1</title>
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
@@ -348,6 +369,14 @@
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
                         <link>http://93.155.143.90:85/m3u8/arenasport4.m3u8</link>
+                        </item>
+		
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARENA SPORT 5</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://93.155.143.90:85/m3u8/arenasport5.m3u8</link>
                         </item>
 		
 		
@@ -517,6 +546,20 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://stream.euroasia.lfstrm.tv/viasat_sport/1/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EXTREM SPORTS (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://91.90.253.66:8080/CH730_std/tracks-v1a1/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT SPORTS </title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
                         </item>
 		
 		
