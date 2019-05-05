@@ -13,7 +13,14 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT Ñ</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
                         <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
-                        <link>http://stream.tvpor-internet.net/manifest_c/bein-n-sports.m3u8</link>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/beinnn.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT Ñ opc. 2</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/beinn1.m3u8</link>
                         </item>
 
 						<item>
@@ -93,7 +100,15 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/1853.m3u8</link>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/espn.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 2</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/espn2.m3u8</link>
                         </item>
 		
 		
@@ -101,7 +116,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/2327.m3u8</link>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/espn3.m3u8</link>
                         </item>
 		
 		
@@ -109,7 +124,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://flow.nibbletv.info/CH/VRi5JT2hSww6/Fox-Sports.m3u8</link>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/foxsports.m3u8</link>
                         </item>
 		
 		
@@ -117,7 +132,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 2</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://flow.nibbletv.info/CH/VRi5JT2hSww6/Fox-Sports-2.m3u8</link>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/foxsports2.m3u8</link>
                         </item>
 		
 		
@@ -125,7 +140,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 3</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://x3iptv.com:57000/live/LuisAlfaro/YOSbgKkX8G/2237.m3u8</link>
+                        <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/foxsports3.m3u8</link>
                         </item>
 		
 		
