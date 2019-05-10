@@ -31,10 +31,24 @@
                         </item>
 
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] LALIGA TV</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://rocksat.ddns.net:25461/h4eggncr/C3MoKtiZ2N/14992</link>
+                        </item>
+
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR LIGA DE CAMPEONES</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
                         <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
                         <link>http://flow.nibbletv.info/CH/VRi5JT2hSww6/Movistar-Futbol.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MOVISTAR FORMULA 1</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://rocksat.ddns.net:25461/h4eggncr/C3MoKtiZ2N/14984</link>
                         </item>
 
 						<item>
