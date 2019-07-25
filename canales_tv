@@ -760,7 +760,15 @@
                         <title>[COLOR white][COLOR blue]FOX NEWS [/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://www.sansat.net:25461/live/024710090110/024710090110/15024.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/83065.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]FOX NEWS [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6396.m3u8</link>
                         </item>
 		
 		
@@ -776,7 +784,7 @@
                         <title>[COLOR white][COLOR blue]CNN[/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8?fluxustv.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/5826.m3u8</link>
                         </item>
 			
 			
@@ -805,10 +813,18 @@
 			
 			
 						<item>
-                        <title>[COLOR white][COLOR blue]ABC News [/COLOR] </title>
+                        <title>[COLOR white][COLOR blue]ABC News LIVE[/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>https://abclive2-lh.akamaihd.net/i/abc_live11@423404/master.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]ABC News [/COLOR] </title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/5832.m3u8</link>
                         </item>
 		
 		
@@ -840,7 +856,7 @@
                         <title>[COLOR white][COLOR blue]MSNBC [/COLOR] </title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/index_1296_av-p.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/5819.m3u8</link>
                         </item>
 			
 			
