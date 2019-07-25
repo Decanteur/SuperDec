@@ -87,6 +87,27 @@
                         </item>
 
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT HD (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6390.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT HD (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6389.m3u8</link>
+                        </item>
+
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CBS SPORTS (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
+                        <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6387.m3u8</link>
+                        </item>
+
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] BEINSPORT 1 (FR)</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg/1280px-Bein_Sport_en_espa%C3%B1ol_logo.svg.png</fanart>
                         <thumbnail>https://static.iptv-epg.com/es/beINSports.es.png</thumbnail>
@@ -150,7 +171,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://185.132.134.138:6969/live/max.lacress@gmail.com/3LSQGYh7ap/5182.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6365.m3u8</link>
                         </item>
 		
 		
@@ -166,7 +187,23 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://185.132.134.138:6969/live/max.lacress@gmail.com/3LSQGYh7ap/5192.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/31829.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6378.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 2 (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6376.m3u8</link>
                         </item>
 		
 		
@@ -174,7 +211,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
-                        <link>http://185.132.134.138:6969/live/max.lacress@gmail.com/3LSQGYh7ap/5184.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/10324.m3u8</link>
                         </item>
 		
 		
@@ -754,6 +791,13 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://210.210.155.35/uq2663/h/h05/index.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT BOX </title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6359.m3u8</link>
                         </item>
 		
 		
