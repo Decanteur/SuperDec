@@ -518,17 +518,17 @@
 
 
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] DJING TV</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] 4MUSIC (UK)</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://www.djing.com/tv/ibiza.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/7775.m3u8</link>
                         </item>
 
 						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] MTV LIVE</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://fcbfdefc.iptvzone.net/iptv/9RQUCKQ9E3E44Q/221/index.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/7767.m3u8</link>
                         </item>
 
 						<item>
@@ -547,10 +547,10 @@
 		
 		
 						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] MUSIC CHOICE</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MUSIC CHOICE HIT LIST</title>
                         <fanart></fanart>
                         <thumbnail>https://1.bp.blogspot.com/-FLTvj2Obt3U/V5poPSfN0sI/AAAAAAAADY4/z195qQVHOUULSU7m8JZuJQX3VTQPkSc6QCLcB/s1600/hit%2Btv%2BSeries%2By%2BAnimes%2Bde%2BTv.png</thumbnail>
-                        <link>http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/7762.m3u8</link>
                         </item>
 
 
@@ -628,7 +628,7 @@
 
 						<item>
 			<title>[COLOR white][COLOR blue]• [/COLOR] BBC News</title>
-			<link>http://dream4all.servehttp.com:25570/live/enigmasmart/JdSeeV6Lbh/5972.m3u8</link>
+			<link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/21621.m3u8</link>
 			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
 			<fanart></fanart>
 			<info></info>
@@ -646,6 +646,15 @@
 						<item>
 			<title>[COLOR white][COLOR blue]• [/COLOR] SKY News</title>
 			<link>http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8</link>
+			<thumbnail></thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+		
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] CNN (UK)</title>
+			<link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/21618.m3u8</link>
 			<thumbnail></thumbnail>
 			<fanart></fanart>
 			<info></info>
@@ -672,15 +681,23 @@
 		
 						<item>
 			<title>[COLOR white][COLOR blue]• [/COLOR] DW (EN)</title>
-			<link>http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8</link>
+			<link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/21507.m3u8</link>
 			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
 			<fanart></fanart>
 			<info></info>
 			</item>
 		
 						<item>
-			<title>[COLOR white][COLOR blue]• [/COLOR] RTE NEWS</title>
-			<link>http://wmsrtsp1.rte.ie/live/android.sdp/playlist.m3u8</link>
+			<title>[COLOR white][COLOR blue]• [/COLOR] ITV 1 (EN)</title>
+			<link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/21491.m3u8</link>
+			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
+			<fanart></fanart>
+			<info></info>
+			</item>
+		
+						<item>
+			<title>[COLOR white][COLOR blue]• [/COLOR] ITV 2 (EN)</title>
+			<link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/21488.m3u8</link>
 			<thumbnail>http://8d5306c18b850ea7e0ac-65b9b7a2fa68b3c92f951010bb26a4de.r54.cf2.rackcdn.com/excelsior-tv-redes.png</thumbnail>
 			<fanart></fanart>
 			<info></info>
