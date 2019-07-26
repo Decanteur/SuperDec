@@ -232,6 +232,14 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 1 (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6352.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS RACING</title>
                         <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
@@ -240,10 +248,58 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SOCCER PLUS (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6353.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EIR SPORT 2 (IE)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16278.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] PREMIR SPORTS (IE)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16277.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] GOL TV (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6317.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] NFL NETWORK (US)</title>
+                        <fanart>https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/DirecTV_Sports_logo.svg/1280px-DirecTV_Sports_logo.svg.png</fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/06/directv-1.jpg</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6395.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] TDN</title>
                         <fanart>https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/04/tdn-logo.jpg</fanart>
                         <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
                         <link>http://iptvmrz-panel.com.mx/prox4/tvprue/tvprue/tdn.m3u8</link>
+                        </item>
+		
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TYC SPORTS</title>
+                        <fanart>https://i1.wp.com/www.sopitas.com/wp-content/uploads/2017/04/tdn-logo.jpg</fanart>
+                        <thumbnail>https://upload.wikimedia.org/wikipedia/commons/8/84/Logo_TDN.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6276.m3u8</link>
                         </item>
 		
 		
@@ -352,6 +408,14 @@
 		
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TV3 SPORT 2 (DK)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16281.m3u8</link>
+                        </item>
+		
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] RED BULL TV</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -389,12 +453,11 @@
                         <link>http://ec.playmedia.fr/lequipe21/live/chunklist_w307583200.m3u8</link>
                         </item>
 		
-		
-						<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] FIGHT BOX</title>
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] UFC FIGHT PASS (US)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://92.43.140.249/s86/04.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6917.m3u8</link>
                         </item>
 		
 		<item>
@@ -446,6 +509,13 @@
                         <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
                         <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
                         <link>http://213.151.233.20:8000/dna-6428-tv-pc/hls/4001v102.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] RED BULL TV (US)</title>
+                        <fanart>http://rallycrossfrance.com/wp-content/uploads/2016/03/Lequipe21.png</fanart>
+                        <thumbnail>http://www.firstonetv.net/images/logos/fr/LEQUIPE.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/6282.m3u8</link>
                         </item>
 		
 		<item>
@@ -584,17 +654,45 @@
                         </item>
 		
 		<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 1 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 1 (CRO)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://185-125-230-172.livesports24.online/rssk1.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16287.m3u8</link>
                         </item>
 		
 		<item>
-                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 3 (RU)</title>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 2 (CRO)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://185-125-230-172.livesports24.online/spkl3.m3u8</link>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16286.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 3 (CRO)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16285.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 4 (CRO)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16284.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 5 (CRO)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16283.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT KLUB 6 (CRO)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://thenew.tv:8000/live/uP4npDkbe/hbL03e2U8s/16282.m3u8</link>
                         </item>
 		
 		<item>
