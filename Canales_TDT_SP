@@ -127,6 +127,41 @@
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>https://mdssplive-lh.akamaihd.net/i/mtmad_1@744785/index_2500_av-b.m3u8?sd=10&set-akamai-hls-revision=4&set-segment-duration=smoothest&rebase=on</link>
                         </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] PARAMOUNT NETWORK</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://paramount-live.flumotion.com/live/chunks.m3u8</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] GOL TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://d14p8fk8seby7u.cloudfront.net/edge_gol/_definst_/gol_24_laliga_MB_2128/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTRwOGZrOHNlYnk3dS5jbG91ZGZyb250Lm5ldC9lZGdlX2dvbC9fZGVmaW5zdF8vZ29sXzI0X2xhbGlnYV9NQl8yMTI4L2NodW5rbGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiI5Mi4xODkuMjAuMjQvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1NjQzNDM0NzJ9fX1dfQ__&Signature=k~medwVibmgdD-ceKqM6nNMPSa6yeHpepoYzjYvGsPC9ae1xJuT5mULMomTrBwsZ1~Rjz-H5tc2DgxE5OwxVwhfg3zKVWAmKKSjn3H6YQTMdhkIDgBfnFtYmNsazsZUgs5Z7tTIwsf3zh1KOtOPWX8ru39rqEHhyMpsd5wnu92E-Y~syB7qTPMyJUqIXguNJNu-PjD8Fixcfyrmhcdfw5TKhAzhPXcFS-IrZpS79k~i4Cdb4FUN-79DEjIcnTQHSWB9aYOo8V~9PIHFIzhPo~xmjsBrFDcQsapkwxMvlAjoBWelC8v28Gd4fYrIJUy4ifP65SlkdVKJ93~QD8M~ePw__&Key-Pair-Id=APKAIDIQYETC4B6WDMDA</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] REALMADRID TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hwebes_1@300661/index_3_av-b.m3u8?sd=10&rebase=on</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL EXTREMADURA</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/chunklist_b1596000.m3u8</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] LAOTRA</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8</link>
+                        </item>
                         
                         
                         
