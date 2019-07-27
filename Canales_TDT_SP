@@ -162,6 +162,20 @@
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://laotrahls-live.hls.adaptive.level3.net/telemadrid/laotra1/bitrate_2.m3u8</link>
                         </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ARAGÓN TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://streamer92.store.aranova.cloud/cls/live/aragontv_canal1/index.m3u8?vv=1&h=8DzMXMBajwlR7nP-KdYJKA&e=31353634333435313337&r=885</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TPA TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://cdnlive.shooowit.net/rtpalive/smil:directo.smil/chunklist_b1500000.m3u8</link>
+                        </item>
                         
                         
                         
