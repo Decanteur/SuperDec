@@ -157,6 +157,13 @@
                         </item>
          
                         <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TELEMADRID</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://telemadridhls-live.hls.adaptive.level3.net/telemadrid/telemadrid1/bitrate_1.m3u8</link>
+                        </item>
+         
+                        <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] LAOTRA</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -164,10 +171,31 @@
                         </item>
          
                         <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] 7RM</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://rtvmurcia_01-lh.akamaihd.net/i/rtvmurcia_1_0@507973/index_0_av-p.m3u8</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CANAL SUR COCINA</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://593fa17dec176.streamlock.net/cscocina/cscocina.stream/chunklist_w544997930.m3u8</link>
+                        </item>
+         
+                        <item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ARAGÓN TV</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>https://streamer92.store.aranova.cloud/cls/live/aragontv_canal1/index.m3u8?vv=1&h=8DzMXMBajwlR7nP-KdYJKA&e=31353634333435313337&r=885</link>
+                        </item>
+         
+                        <item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CMM</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://klive.kaltura.com/s/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/jOJi3mTXc69QscOUx1aqew/index-s32.m3u8?__hdnea__=st=1564301901~exp=1564388301~acl=/s/dc-0/live/hls/p/2288691/e/0_xs45iy5i/sd/6000/t/jOJi3mTXc69QscOUx1aqew/index-s32.m3u8*~hmac=ec3db9ad320c07812323b0f170ec785b4045eccf65e83ed170cd77ce6e330385</link>
                         </item>
          
                         <item>
