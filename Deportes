@@ -16,7 +16,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] GOL TV</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>https://d14p8fk8seby7u.cloudfront.net/edge_gol/_definst_/gol_24_laliga_MB_2128/chunklist.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kMTRwOGZrOHNlYnk3dS5jbG91ZGZyb250Lm5ldC9lZGdlX2dvbC9fZGVmaW5zdF8vZ29sXzI0X2xhbGlnYV9NQl8yMTI4L2NodW5rbGlzdC5tM3U4IiwiQ29uZGl0aW9uIjp7IklwQWRkcmVzcyI6eyJBV1M6U291cmNlSXAiOiI5Mi4xODkuMjAuMjQvMzIifSwiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE1NjU2MTE4MTB9fX1dfQ__&Signature=cCiBsa2Pz3BTa5GQFPP-aSHXNvF37Df3LcN~NOoJ5S1F1dCoRo4h4mgyBW2jW99VBKkjh4HR56Go7epKKczSV9vlFKcvq2a46BSqLleWd-ijToxPgPUXIMtp~zE2-6FnY-xLEo0JVdjLtYG-GXNaGBSFNSprOD6SWyuHgA-bBr-xl0pQjHZCdm9mGoTPn5yQ80OiAaf93ME35FKW~7RhjLIt2ySU4jGdfwaBfogJ03UK6fdnffjidrPuK8rbpGTWvJRvqxsyIfJK6CvQhgFG2KnY2LnOr9iZQcUrQcqzR-UoyqCTxG6MdFMFAop2VYAPmvNKESy9cviA3jtPY4fFgQ__&Key-Pair-Id=APKAIDIQYETC4B6WDMDA</link>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/30998.m3u8</link>
                         </item>
 
 						<item>
@@ -66,7 +66,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORT 1 (ARG)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/91115.m3u8</link>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31005.m3u8</link>
                         </item>
 		
 		<item>
@@ -87,14 +87,14 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORT 2 (MEX)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/14839.m3u8</link>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31004.m3u8</link>
                         </item>
 		
 		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORT 3 (ARG)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/91992.m3u8</link>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31003.m3u8</link>
                         </item>
 		
 		<item>
@@ -115,7 +115,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN (MEX)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/14841.m3u8</link>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31022.m3u8</link>
                         </item>
 		
 		<item>
@@ -133,10 +133,17 @@
                         </item>
 		
 		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3 (ARG)</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31021.m3u8</link>
+                        </item>
+		
+		<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ESPN 3 (MEX)</title>
                         <fanart></fanart>
                         <thumbnail></thumbnail>
-                        <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/135376.m3u8</link>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31021.m3u8</link>
                         </item>
 		
 		<item>
@@ -144,6 +151,13 @@
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/135374.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ESPN DEPORTES (MEX)</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/31020.m3u8</link>
                         </item>
 		
 		<item>
@@ -158,4 +172,12 @@
                         <fanart></fanart>
                         <thumbnail></thumbnail>
                         <link>http://tv.latintvweb.com:25461/live/Carrera52771/IER9xyy7Eg/21835.m3u8</link>
+                        </item>
+		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TYC SPORTS (ARG)</title>
+                        <fanart></fanart>
+                        <thumbnail></thumbnail>
+                        <link>http://watch.gotdark.com:80/live/cesar/cesar123/30944.m3u8</link>
                         </item>		
+
