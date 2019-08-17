@@ -12,7 +12,15 @@
                         <item><title>[COLOR=yellow]        <<[/COLOR][COLOR=yellow] Deportes en otros idiomas[/COLOR][COLOR=yellow]>>[/COLOR]</title>   <link>http://about.me/adryan</link></item>
 
 
-<item>
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 11 (EN)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/91301.m3u8</link>
+                        </item>
+		
+						
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS ACTION</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -20,7 +28,7 @@
                         </item>
 		
 						
-<item>
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS ARENA</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -28,7 +36,7 @@
                         </item>
 		
 						
-<item>
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -36,7 +44,31 @@
                         </item>
 		
 						
-<item>
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50176.m3u8</link>
+                        </item>
+		
+						
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/50166.m3u8</link>
+                        </item>
+		
+						
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS F1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/87127.m3u8</link>
+                        </item>
+		
+						
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] SKY SPORTS FOOTBALL</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -68,7 +100,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORTS 1</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1991.m3u8</link>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13846.m3u8</link>
                         </item>
 		
 						<item>
@@ -82,7 +114,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORTS 2</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1992.m3u8</link>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13809.m3u8</link>
                         </item>
 		
 						<item>
@@ -96,7 +128,7 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORTS 3</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/14903.m3u8</link>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/13877.m3u8</link>
                         </item>
 		
 						<item>
@@ -110,7 +142,14 @@
                         <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORTS ESPN</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
-                        <link>http://channels227070.clientportal.link:80/live/jT75VAj755/4MFuD7757/1980.m3u8</link>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/15152.m3u8</link>
+                        </item>
+		
+						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] BT SPORTS ESPN</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/16910.m3u8</link>
                         </item>
 		
 						<item>
@@ -183,21 +222,28 @@
                         <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69441.m3u8</link>
                         </item>
 		
-<item>
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ELEVEN 1</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79368.m3u8</link>
                         </item>
 		
-<item>
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ELEVEN 1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69441.m3u8</link>
+                        </item>
+		
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] ELEVEN 2</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/69436.m3u8</link>
                         </item>
 		
-<item>
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 1</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -210,6 +256,13 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79364.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79363.m3u8</link>
                         </item>
 		
 			<item>
