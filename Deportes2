@@ -2,7 +2,7 @@
  
  
 <channel>
-    <name>          <<<<<<<<<Canales de deportes>>>>>>>></name>
+    <name>          <<<<<<<<<Canales de deportes en otros idiomas>>>>>>>></name>
     <thumbnail>http://www.novomusica.com/7334-thickbox_default/altavoz-bluetooth-audiopro-addon-t10.jpg</thumbnail>
     <fanart>http://www.novomusica.com/7334-thickbox_default/altavoz-bluetooth-audiopro-addon-t10.jpg</fanart>
         <items>
@@ -114,6 +114,13 @@
                         </item>
 		
 						<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORTS 1 (US)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://185.246.209.109:8080/FOX_SPORTS1/tracks-v1a1/index.m3u8</link>
+                        </item>
+		
+						<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] BOX NATION</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -198,21 +205,77 @@
                         </item>
 		
 			
-<item>
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT 2</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79364.m3u8</link>
                         </item>
 		
-	<item>
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORT 2U</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8</link>
+                        </item>
+		
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] POLSAT SPORT EXTRA</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://ppvplug.net:8000/live/eY4VO1PRUN/lfKDdTNJxi/79406.m3u8</link>
                         </item>
 		
-<item>
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EUROSPORT (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://77.245.98.22:8000/play/307/index.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://92.46.127.146:8080//SetantaSport/index.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS (LTV)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://88.119.220.2/live/eds/Setanta/HLS_encr/Setanta.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://95.153.22.122:8000/play/a00n/index.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS 2 (RU)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://92.46.127.146:8080/SetantaSportPlus/index.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SETANTA SPORTS 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://ott-cdn.ucom.am/s81/index.m3u</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] TVPLAY SPORTS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://95.153.22.122:8000/play/a01r/index.m3u8</link>
+                        </item>
+		
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] FOX SPORT 1 (BR)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -249,8 +312,28 @@
 		
 							
 		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] CBC SPORT (AZ)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://streams.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8</link>
+                        </item>
 		
+		<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] IDMAN SPORT (AZ)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://streams.livetv.az/azerbaijan/idmanhd/playlist.m3u8</link>
+                        </item>
 						
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] ORANGE SPORT</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://213.151.233.20:8000/dna-6428-tv-pc/hls/4003v102.m3u8</link>
+                        </item>
+		
+					
 		
 						
 		
