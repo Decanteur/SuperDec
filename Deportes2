@@ -13,6 +13,22 @@
 
 
 			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] L'EQUIPE (FR)</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>https://s1.tntendirect.com/lequipe21/live/chunks.m3u8</link>
+                        </item>
+		
+						
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] SPORTS TV</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://8d4a1a46-stream.nmbs.top/c/28/1475.m3u8</link>
+                        </item>
+		
+						
+			<item>
                         <title>[COLOR white][COLOR blue]• [/COLOR] BEIN SPORTS 11 (EN)</title>
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
@@ -319,6 +335,90 @@
                         <fanart></fanart>
                         <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
                         <link>http://ott-cdn.ucom.am/s81/index.m3u</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH! 1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://46.18.202.220:8879/Match/ch1.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] MATCH! 1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://gorod.tv/s/live/3/denms.tv/0/0.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://188.128.15.118:8080/play/a174</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://tvport.it-tele.net:8000/8b804b43f839479e0671340cf37e8555</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 1</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://91.238.192.169/football1/tracks-v1a1/index.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://188.128.15.118:8080/play/a175</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://tvport.it-tele.net:8000/36efbb6e1af7983ec59ae790498692ce</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 2</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://91.238.192.169/football2/tracks-v1a1/index.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 3</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://188.128.15.118:8080/play/a176</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] FOOTBALL 3</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://tvport.it-tele.net:8000/c4f4d43363bea02c37593218d78b39b0</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] VIASAT SPORTS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://91.238.192.169/viasatsport/mono.m3u8</link>
+                        </item>
+		
+			<item>
+                        <title>[COLOR white][COLOR blue]• [/COLOR] EXTREME SPORTS</title>
+                        <fanart></fanart>
+                        <thumbnail>http://www.televisionparatodos.tv/wp-content/uploads/2013/02/11-2.png</thumbnail>
+                        <link>http://78.26.128.45:8081/live/19/playlist.m3u8</link>
                         </item>
 		
 			<item>
